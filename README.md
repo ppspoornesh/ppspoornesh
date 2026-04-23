@@ -1,9 +1,9 @@
 # Hey there, I'm Poornesh Gorrela 👋  
 
-### 🚀 Applied AI Engineer · 🤖 GenAI Systems · 📊 Data & Product Thinker  
+### 🚀 AI Platform Engineer · 🤖 Agentic AI · 📊 Data & Product Systems  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFAA&center=true&vCenter=true&width=720&lines=Building+Agentic+AI+Systems+for+Real+World+Impact.;Turning+LLMs+into+Scalable+Products.;Bridging+AI,+Data,+and+Product+Thinking." alt="typing svg"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFAA&center=true&vCenter=true&width=780&lines=Building+Agentic+AI+Systems+for+Real+World+Impact.;Designing+LLM+Pipelines+that+Scale+to+Production.;Bridging+AI,+Data,+and+Product+Thinking.;Turning+Ideas+into+Deployed+Intelligent+Systems." />
 </p>
 
 <p align="center">
@@ -16,20 +16,21 @@
 
 ## 🔍 What I build
 
-- Build **Agentic AI systems** using LLMs, RAG, and multi-agent workflows  
-- Develop **production-grade backend systems** (FastAPI, microservices, async pipelines)  
-- Work across **AI + Data + Product**, turning ideas into deployable systems  
-- Optimize systems for **latency, scalability, and reliability**  
-- Apply **data analytics & product thinking** to drive real-world impact  
+- 🤖 **Agentic AI systems** with multi-agent workflows, tool-calling, and reasoning pipelines  
+- 🧠 **LLM-powered applications** using RAG, embeddings, and evaluation pipelines  
+- ⚙️ **Scalable backend systems** (FastAPI, microservices, async architectures)  
+- 📊 **Data & analytics systems** (ETL pipelines, SQL, dashboards, KPI tracking)  
+- 🚀 **Product-driven solutions** combining AI + data + user behavior insights  
 
 ---
 
 ## ⚡ Impact Snapshot
 
-- 🚀 Reduced **LLM latency by 30%** using async pipelines  
+- 🚀 Reduced **LLM latency by 30%** using async & optimized pipelines  
 - 🎯 Improved **retrieval accuracy by 30%** via RAG optimization  
-- 🧠 Reduced **hallucinations by 25%** with evaluation pipelines  
-- 📊 Built analytics systems processing **20K+ records**  
+- 🧠 Reduced **hallucinations by 25%** with evaluation systems  
+- 📊 Processed **20K+ data records** for analytics & insights  
+- ⚙️ Built **production-ready AI systems deployed on AWS**
 
 ---
 
@@ -41,62 +42,66 @@
 
 ---
 
-## 🚀 Selected Projects
+## 🚀 Featured Projects
 
 - 🤖 **Agentic Voice Assistant**  
   Multi-agent AI system (STT → LLM → Tools → TTS) with real-time orchestration  
   <a href="https://www.youtube.com/watch?v=pbH4afMm47g"><img src="https://img.shields.io/badge/Demo-red?style=for-the-badge&logo=youtube" /></a>
 
 - 🧠 **Medical RAG Assistant**  
-  RAG pipeline using FAISS + embeddings with hallucination reduction  
+  Production-style RAG pipeline using FAISS + embeddings with evaluation & hallucination control  
   <a href="https://www.youtube.com/watch?v=qmS9I-KiB28"><img src="https://img.shields.io/badge/Demo-red?style=for-the-badge&logo=youtube" /></a>
 
 - 🎬 **Pitch Visualizer**  
-  Multi-stage LLM pipeline converting text → structured visual storyboards  
+  Multi-stage LLM orchestration pipeline with fallback handling and API integration  
   <a href="https://github.com/ppspoornesh/pitch-visualizer"><img src="https://img.shields.io/badge/View Repo-blue?style=for-the-badge&logo=github" /></a>
 
 - 💬 **Empathy Engine**  
-  Emotion-aware Text-to-Speech system with dynamic modulation  
+  Emotion-aware NLP + TTS system adapting tone, pitch, and intensity dynamically  
   <a href="https://github.com/ppspoornesh/empathy-engine"><img src="https://img.shields.io/badge/View Repo-blue?style=for-the-badge&logo=github" /></a>
 
 - 👕 **TokiTide — AI Personalization Platform**  
-  AI-powered system generating personalized designs with scalable backend  
+  Full-stack AI system generating personalized designs from user inputs  
   <a href="https://tokitide.xyz"><img src="https://img.shields.io/badge/Live Demo-brightgreen?style=for-the-badge&logo=netlify" /></a>
-  
-- 📊 **Food Delivery Analytics Dashboard**  
-  End-to-end data analytics system to uncover user behavior, demand patterns, and business insights from large-scale food delivery data  
 
-  - Processed **20K+ transactions** using SQL + Python for scalable analysis  
-  - Built **KPI dashboards** tracking conversion, retention, and user segmentation  
-  - Performed **behavioral analysis & funnel insights** to identify drop-offs  
-  - Generated **data-driven strategies** for pricing, targeting, and engagement  
-  - Designed **modular ETL pipelines** simulating production-grade workflows  
+- 📊 **Food Delivery Analytics Dashboard**  
+  End-to-end analytics system for demand patterns, user behavior & KPI tracking  
+
+  - Processed **20K+ transactions** using SQL + Python  
+  - Built **conversion, retention & segmentation dashboards**  
+  - Performed **funnel & behavioral analysis**  
+  - Generated **pricing & engagement strategies**  
+  - Designed **ETL pipelines for scalable analytics systems**  
 
   <a href="https://github.com/ppspoornesh/zomato-Data_Analysis">
     <img src="https://img.shields.io/badge/View Repo-blue?style=for-the-badge&logo=github"/>
   </a>
+
 ---
 
-## 📊 Data & Product Work
+## 📊 Data × AI × Product
 
-- Built **Food Delivery Analytics System** (20K+ records, SQL + Python)  
-- Designed **KPI dashboards, user segmentation, and funnel analysis**  
-- Applied **product thinking** to improve engagement and conversions  
+- Designed **analytics pipelines + KPI dashboards**  
+- Applied **user behavior analysis & funnel optimization**  
+- Built **data-driven decision systems**  
+- Combined **AI + analytics + product thinking** for real-world impact  
 
 ---
 
 ## 🧪 Experience
 
-**AI SDE Intern — Darwix AI**  
-- Built production-grade LLM systems with LangChain & LangGraph  
-- Designed agentic workflows with tool-calling  
-- Deployed scalable systems on AWS
+**AI Platform Engineer Intern — Darwix AI**  
+- Built **production-grade LLM systems & agentic workflows**  
+- Designed **RAG pipelines + evaluation systems**  
+- Developed **FastAPI microservices for scalable AI systems**  
+- Deployed **AI systems on AWS with Docker**
 
 **Machine Learning Intern — Jayadhi Ltd**  
-- Developed real-time ML pipelines under latency constraints  
+- Built **low-latency ML inference pipelines**  
 
 **AI/ML Research Intern — NIT Trichy**  
-- Built OCR + NLP pipelines with semantic retrieval  
+- Developed **OCR + NLP + retrieval systems**
+
 ---
 
 ## 📊 GitHub Insights
@@ -114,10 +119,10 @@
 
 ## 🤝 Open to
 
-- AI / GenAI / Agentic AI roles  
-- Data Science & Data Analyst roles  
-- Product & AI Product roles  
-- Building scalable AI systems with real-world impact  
+- 🤖 AI / GenAI / Agentic AI roles  
+- 📊 Data Science / Data Analyst roles  
+- ⚙️ Backend / Systems Engineering roles  
+- 🧠 Product / AI Product roles  
 
 ---
 
@@ -129,4 +134,4 @@
 
 ---
 
-> ⚡ I don’t just build models — I build systems that work in the real world.
+> ⚡ I don’t just build models — I build scalable systems that create real-world impact.
