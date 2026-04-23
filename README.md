@@ -87,17 +87,16 @@
 
 ## 🧪 Experience
 
-**Applied AI Engineer Intern — Darwix AI**  
+**AI SDE Intern — Darwix AI**  
 - Built production-grade LLM systems with LangChain & LangGraph  
 - Designed agentic workflows with tool-calling  
-- Deployed scalable systems on AWS  
-
-**AI/ML Research Intern — NIT Trichy**  
-- Built OCR + NLP pipelines with semantic retrieval  
+- Deployed scalable systems on AWS
 
 **Machine Learning Intern — Jayadhi Ltd**  
 - Developed real-time ML pipelines under latency constraints  
 
+**AI/ML Research Intern — NIT Trichy**  
+- Built OCR + NLP pipelines with semantic retrieval  
 ---
 
 ## 📊 GitHub Insights
