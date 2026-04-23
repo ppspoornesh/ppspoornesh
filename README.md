@@ -1,4 +1,4 @@
-# Hey there, I'm Poornesh 👋  
+# Hey there, I'm Poornesh Gorrela 👋  
 
 ### 🚀 Applied AI Engineer · 🤖 GenAI Systems · 📊 Data & Product Thinker  
 
