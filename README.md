@@ -3,30 +3,29 @@
 ### 🚀 AI Platform Engineer · 🤖 Agentic AI · 📊 Data & Product Systems  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFAA&center=true&vCenter=true&width=950&lines=I+Build+Production-Ready+AI+Systems.;Agentic+AI+%7C+LLMs+%7C+Data+Systems.;From+Idea+→+Architecture+→+Deployment.;Engineering+AI+That+Actually+Works+in+Real+World." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFAA&center=true&vCenter=true&width=950&lines=Building+Production-Ready+AI+Systems.;Agentic+AI+%7C+LLMs+%7C+Data+Systems.;From+Architecture+to+Deployment.;Engineering+AI+for+Real-World+Impact." />
 </p>
 
 ---
 
-# ⚡ What Makes Me Different
+## ⚡ What I Bring
 
-- I build **end-to-end intelligent systems**
-- I combine **AI + Data + Product thinking**
-- I focus on **real-world scalable systems**
-- I design **architecture, not just models**
-
----
-
-# 🚀 Featured Systems
+- End-to-end **AI system design and deployment**
+- Strong foundation in **LLMs, RAG, and Agentic workflows**
+- Experience building **data-driven decision systems**
+- Focus on **scalability, latency, and production readiness**
 
 ---
 
-## 🤖 Agentic AI Voice Assistant  
+## 🚀 Featured Systems
 
-👉 Multi-Agent AI System with Real-Time Orchestration  
+---
 
-### 🧠 Architecture (Visual)
+### 🤖 Agentic AI Voice Assistant  
 
+**Multi-Agent AI System with Real-Time Orchestration**
+
+#### 🧠 Architecture
 ```mermaid
 flowchart LR
 A[User Voice] --> B[Speech-to-Text]
@@ -39,22 +38,14 @@ F --> G[Text-to-Speech]
 G --> H[Response to User]
 ```
 
-### 🎥 Demo
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="600"/>
-</p>
+#### ⚙️ System Overview
+- Designed a **multi-agent AI architecture** with tool orchestration  
+- Implemented **reasoning pipelines + contextual memory**  
+- Built **real-time conversational loop with dynamic execution**  
 
-### ⚙️ How It Works Internally
-- Converts voice → text using STT  
-- LLM performs **multi-step reasoning**  
-- Dynamically calls tools (APIs / functions)  
-- Maintains **context memory across interactions**  
-- Converts response → speech  
-
-### 🚀 What I Built
-- Multi-agent orchestration  
-- Tool-calling pipelines  
-- Real-time AI interaction loop  
+#### 🎯 Key Highlights
+- Demonstrates **agentic AI + system design thinking**
+- Mimics real-world assistants (OpenAI / Google style)
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=pbH4afMm47g">
@@ -64,36 +55,28 @@ G --> H[Response to User]
 
 ---
 
-## 🧠 Medical RAG Assistant  
+### 🧠 Medical RAG Assistant  
 
-👉 Production-Ready Retrieval-Augmented Generation System  
+**Production-Grade Retrieval-Augmented Generation System**
 
-### 🧠 Architecture
-
+#### 🧠 Architecture
 ```mermaid
 flowchart LR
 A[User Query] --> B[Embedding Model]
-B --> C[Vector DB FAISS]
-C --> D[Relevant Documents]
-D --> E[LLM Generator]
+B --> C[Vector Database (FAISS)]
+C --> D[Relevant Context]
+D --> E[LLM Generation]
 E --> F[Final Answer]
 ```
 
-### 🎥 Demo
-<p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="600"/>
-</p>
+#### ⚙️ System Overview
+- Built complete **RAG pipeline (ingestion → retrieval → generation)**  
+- Implemented **semantic search optimization**  
+- Designed **evaluation layer to reduce hallucinations**  
 
-### ⚙️ How It Works Internally
-- Converts query into embeddings  
-- Searches FAISS vector DB  
-- Retrieves top-k relevant chunks  
-- Feeds context into LLM  
-- Generates grounded response  
-
-### 📈 Impact
-- +30% retrieval accuracy  
-- Reduced hallucinations  
+#### 📈 Impact
+- Improved **retrieval accuracy by 30%**  
+- Enhanced response reliability  
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=qmS9I-KiB28">
@@ -103,93 +86,79 @@ E --> F[Final Answer]
 
 ---
 
-## 💰 Fraud Detection Analytics System  
+### 💰 Fraud Detection Analytics System  
 
-👉 Financial Risk Intelligence Platform  
+**End-to-End Financial Risk Intelligence Platform**
 
-### 🧠 Architecture
-
+#### 🧠 Architecture
 ```mermaid
 flowchart LR
-A[Raw Transactions] --> B[Data Cleaning]
+A[Transaction Data] --> B[Data Cleaning]
 B --> C[Feature Engineering]
 C --> D[Risk Scoring Model]
 D --> E[Fraud Classification]
-E --> F[Dashboard Visualization]
+E --> F[Analytics Dashboard]
 ```
 
-### 🎥 Demo
-<p align="center">
-  <img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" width="600"/>
-</p>
+#### ⚙️ System Overview
+- Built **Python + SQL pipelines** for transaction processing  
+- Developed **risk scoring models for anomaly detection**  
+- Designed **interactive dashboards (Streamlit)**  
 
-### ⚙️ How It Works Internally
-- SQL + Python pipelines process transactions  
-- Feature engineering extracts behavioral signals  
-- Risk scoring assigns fraud probability  
-- Dashboard visualizes anomalies  
-
-### 🚀 What I Built
-- Data pipelines  
-- Risk scoring system  
-- Streamlit dashboard  
+#### 🎯 Key Highlights
+- Combines **data engineering + analytics + ML thinking**
+- Supports **financial risk decision-making**
 
 <p align="center">
   <a href="https://github.com/ppspoornesh/fraud-detection-analytics-system">
-    <img src="https://img.shields.io/badge/View Code-00FFAA?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/View Repository-00FFAA?style=for-the-badge&logo=github"/>
   </a>
 </p>
 
 ---
 
-## 🎬 Pitch Visualizer  
+### 🎬 Pitch Visualizer  
 
-👉 LLM Orchestration System  
+**LLM-Orchestrated Storyboard Generation System**
 
-### ⚙️ How It Works
-- Splits text into scenes  
-- Enhances prompts using LLM  
-- Generates visuals via APIs  
-- Handles failures gracefully  
+#### ⚙️ System Overview
+- Converts text → structured visual scenes  
+- Uses **LLM prompt pipelines + orchestration logic**  
+- Handles **API failures with fallback mechanisms**  
 
 <p align="center">
   <a href="https://github.com/ppspoornesh/pitch-visualizer">
-    <img src="https://img.shields.io/badge/View Project-blue?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/View Repository-blue?style=for-the-badge&logo=github"/>
   </a>
 </p>
 
 ---
 
-## 💬 Empathy Engine  
+### 💬 Empathy Engine  
 
-👉 Emotion-Aware AI System  
+**Emotion-Aware NLP + Text-to-Speech System**
 
-### ⚙️ How It Works
-- Sentiment detection (VADER)  
-- Emotion intensity calculation  
-- Dynamic speech modulation  
+#### ⚙️ System Overview
+- Detects sentiment using **VADER analysis**  
+- Dynamically adjusts **speech tone, pitch, and intensity**  
+- Hybrid **rule-based + ML-driven system design**  
 
 <p align="center">
   <a href="https://github.com/ppspoornesh/empathy-engine">
-    <img src="https://img.shields.io/badge/View Project-blue?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/View Repository-blue?style=for-the-badge&logo=github"/>
   </a>
 </p>
 
 ---
 
-## 👕 TokiTide — AI Personalization Platform  
+### 👕 TokiTide — AI Personalization Platform  
 
-👉 Full-Stack AI Product  
+**Full-Stack AI Product**
 
-### 🎥 Demo
-<p align="center">
-  <img src="https://media.giphy.com/media/xT0GqeSlGSRQutl7sA/giphy.gif" width="600"/>
-</p>
-
-### ⚙️ What It Does
-- Converts user input → personalized designs  
-- Uses AI pipelines for generation  
-- Full product lifecycle implementation  
+#### ⚙️ System Overview
+- AI-powered **personalized design generation**  
+- End-to-end **user flow + product system design**  
+- Built as a **real-world deployable platform**  
 
 <p align="center">
   <a href="https://tokitide.xyz">
@@ -199,7 +168,7 @@ E --> F[Dashboard Visualization]
 
 ---
 
-# ⚙️ Tech Stack
+## ⚙️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,fastapi,flask,react,js,ts,sql,postgres,mongodb,redis,docker,aws,git,github,pytorch,sklearn&perline=8" />
@@ -207,7 +176,16 @@ E --> F[Dashboard Visualization]
 
 ---
 
-# 📊 GitHub Stats
+## 🧪 Experience
+
+**AI Platform Engineer Intern — Darwix AI**  
+- Built **agentic AI systems and RAG pipelines**  
+- Developed **FastAPI-based microservices**  
+- Deployed systems using **AWS + Docker**  
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ppspoornesh&show_icons=true&theme=tokyonight"/>
@@ -216,7 +194,7 @@ E --> F[Dashboard Visualization]
 
 ---
 
-# 🌍 Connect With Me
+## 🌍 Connect With Me
 
 - 📧 Email: pavansaipoornesh99@gmail.com  
 - 💼 LinkedIn: https://www.linkedin.com/in/poornesh-pavan-sai-gorrela-8156a2252  
@@ -224,4 +202,4 @@ E --> F[Dashboard Visualization]
 
 ---
 
-> ⚡ I build systems, not just projects.
+> ⚡ I build scalable AI systems designed for real-world impact.
