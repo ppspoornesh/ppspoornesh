@@ -3,7 +3,11 @@
 ### 🚀 AI Platform Engineer · 🤖 Agentic AI · 📊 Data & Product Systems  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFAA&center=true&vCenter=true&width=780&lines=Building+Agentic+AI+Systems+for+Real+World+Impact.;Designing+LLM+Pipelines+that+Scale+to+Production.;Bridging+AI,+Data,+and+Product+Thinking.;Turning+Ideas+into+Deployed+Intelligent+Systems." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFAA&center=true&vCenter=true&width=900&lines=Building+Agentic+AI+Systems+for+Real+World+Impact.;Designing+LLM+Pipelines+that+Scale+to+Production.;Engineering+Data+Systems+that+Drive+Decisions.;Turning+Ideas+into+Deployed+Intelligent+Systems." />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FFAA&height=120&section=header"/>
 </p>
 
 <p align="center">
@@ -14,27 +18,31 @@
 
 ---
 
-## 🔍 What I build
+## 🔥 What I Build
 
-- 🤖 **Agentic AI systems** with multi-agent workflows, tool-calling, and reasoning pipelines  
-- 🧠 **LLM-powered applications** using RAG, embeddings, and evaluation pipelines  
-- ⚙️ **Scalable backend systems** (FastAPI, microservices, async architectures)  
-- 📊 **Data & analytics systems** (ETL pipelines, SQL, dashboards, KPI tracking)  
-- 🚀 **Product-driven solutions** combining AI + data + user behavior insights  
+- 🤖 **Agentic AI systems** (multi-agent orchestration + tool calling)  
+- 🧠 **LLM pipelines** (RAG, evaluation, hallucination control)  
+- ⚙️ **Backend systems** (FastAPI, async, microservices)  
+- 📊 **Data platforms** (ETL, SQL, dashboards, analytics)  
+- 🚀 **Product-driven AI solutions**  
 
 ---
 
 ## ⚡ Impact Snapshot
 
-- 🚀 Reduced **LLM latency by 30%** using async & optimized pipelines  
-- 🎯 Improved **retrieval accuracy by 30%** via RAG optimization  
-- 🧠 Reduced **hallucinations by 25%** with evaluation systems  
-- 📊 Processed **20K+ data records** for analytics & insights  
-- ⚙️ Built **production-ready AI systems deployed on AWS**
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ppspoornesh&theme=tokyonight"/>
+</p>
+
+- 🚀 Reduced **LLM latency by 30%**  
+- 🎯 Improved **retrieval accuracy by 30%**  
+- 🧠 Reduced **hallucinations by 25%**  
+- 📊 Processed **20K+ data records**  
+- ⚙️ Built **production-ready AI systems on AWS**
 
 ---
 
-## 🧰 Tech & Tools
+## 🧰 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,fastapi,flask,react,js,ts,sql,postgres,mongodb,redis,docker,aws,git,github,pytorch,sklearn&perline=8" />
@@ -44,94 +52,107 @@
 
 ## 🚀 Featured Projects
 
-- 🤖 **Agentic Voice Assistant**  
-  Multi-agent AI system (STT → LLM → Tools → TTS) with real-time orchestration  
-  <a href="https://www.youtube.com/watch?v=pbH4afMm47g"><img src="https://img.shields.io/badge/Demo-red?style=for-the-badge&logo=youtube" /></a>
-
-- 🧠 **Medical RAG Assistant**  
-  Production-style RAG pipeline using FAISS + embeddings with evaluation & hallucination control  
-  <a href="https://www.youtube.com/watch?v=qmS9I-KiB28"><img src="https://img.shields.io/badge/Demo-red?style=for-the-badge&logo=youtube" /></a>
-
-- 🎬 **Pitch Visualizer**  
-  Multi-stage LLM orchestration pipeline with fallback handling and API integration  
-  <a href="https://github.com/ppspoornesh/pitch-visualizer"><img src="https://img.shields.io/badge/View Repo-blue?style=for-the-badge&logo=github" /></a>
-
-- 💬 **Empathy Engine**  
-  Emotion-aware NLP + TTS system adapting tone, pitch, and intensity dynamically  
-  <a href="https://github.com/ppspoornesh/empathy-engine"><img src="https://img.shields.io/badge/View Repo-blue?style=for-the-badge&logo=github" /></a>
-
-- 👕 **TokiTide — AI Personalization Platform**  
-  Full-stack AI system generating personalized designs from user inputs  
-  <a href="https://tokitide.xyz"><img src="https://img.shields.io/badge/Live Demo-brightgreen?style=for-the-badge&logo=netlify" /></a>
-
-- 📊 **Food Delivery Analytics Dashboard**  
-  End-to-end analytics system for demand patterns, user behavior & KPI tracking  
-
-  - Processed **20K+ transactions** using SQL + Python  
-  - Built **conversion, retention & segmentation dashboards**  
-  - Performed **funnel & behavioral analysis**  
-  - Generated **pricing & engagement strategies**  
-  - Designed **ETL pipelines for scalable analytics systems**  
-
-  <a href="https://github.com/ppspoornesh/zomato-Data_Analysis">
-    <img src="https://img.shields.io/badge/View Repo-blue?style=for-the-badge&logo=github"/>
-  </a>
+### 🤖 Agentic Voice Assistant  
+Multi-agent AI system (STT → LLM → Tools → TTS)
 
 ---
 
-## 📊 Data × AI × Product
+### 🧠 Medical RAG Assistant  
+Production-grade retrieval system with hallucination control  
+
+---
+
+### 🎬 Pitch Visualizer  
+LLM orchestration + scene generation + API fallback handling  
+
+---
+
+### 💬 Empathy Engine  
+Emotion-aware NLP + adaptive TTS system  
+
+---
+
+## 💰 Fraud Detection Analytics System  🔥 NEW
+
+👉 **End-to-End Financial Risk Intelligence System**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Domain-FinTech-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Focus-Fraud Detection-00FFAA?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Stack-Python%20%7C%20SQL%20%7C%20Streamlit-black?style=for-the-badge"/>
+</p>
+
+- 🚨 Built an **end-to-end fraud detection system** for anomaly detection  
+- 🧠 Designed **risk scoring models** to classify transaction risk tiers  
+- ⚙️ Processed financial datasets using **Python + SQL pipelines**  
+- 📊 Developed **interactive dashboards (Streamlit)** for monitoring  
+- 🔍 Implemented **SQL-based anomaly detection & reporting systems**  
+- 📈 Generated **data-driven insights for financial decision-making**  
+
+<p align="center">
+  <a href="https://github.com/ppspoornesh/fraud-detection-analytics-system">
+    <img src="https://img.shields.io/badge/View Project-00FFAA?style=for-the-badge&logo=github"/>
+  </a>
+</p>
+
+---
+
+## 📊 Data × AI × Product Thinking
 
 - Designed **analytics pipelines + KPI dashboards**  
-- Applied **user behavior analysis & funnel optimization**  
-- Built **data-driven decision systems**  
-- Combined **AI + analytics + product thinking** for real-world impact  
+- Built **decision systems using data + ML**  
+- Applied **behavioral analytics & funnel optimization**  
+- Bridged **AI + product + business impact**
 
 ---
 
 ## 🧪 Experience
 
 **AI Platform Engineer Intern — Darwix AI**  
-- Built **production-grade LLM systems & agentic workflows**  
-- Designed **RAG pipelines + evaluation systems**  
-- Developed **FastAPI microservices for scalable AI systems**  
-- Deployed **AI systems on AWS with Docker**
+- Built **agentic workflows & RAG pipelines**  
+- Developed **FastAPI microservices**  
+- Deployed systems on **AWS + Docker**
 
 **Machine Learning Intern — Jayadhi Ltd**  
-- Built **low-latency ML inference pipelines**  
+- Built **low-latency inference systems**
 
 **AI/ML Research Intern — NIT Trichy**  
-- Developed **OCR + NLP + retrieval systems**
+- Developed **OCR + NLP systems**
 
 ---
 
 ## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ppspoornesh&show_icons=true&theme=tokyonight&hide_title=true" height="150"/>
-  <img src="https://streak-stats.demolab.com?user=ppspoornesh&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ppspoornesh&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=ppspoornesh&theme=tokyonight" height="150"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ppspoornesh&theme=onedark&column=6&margin-w=10"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ppspoornesh&theme=onedark&column=6"/>
 </p>
 
 ---
 
-## 🤝 Open to
+## 🎯 Open To
 
-- 🤖 AI / GenAI / Agentic AI roles  
-- 📊 Data Science / Data Analyst roles  
-- ⚙️ Backend / Systems Engineering roles  
-- 🧠 Product / AI Product roles  
-
----
-
-## 🌍 Get in touch
-
-- 📧 Email: [pavansaipoornesh99@gmail.com](mailto:pavansaipoornesh99@gmail.com)  
-- 💼 LinkedIn: [poornesh-pavan-sai-gorrela](https://www.linkedin.com/in/poornesh-pavan-sai-gorrela-8156a2252)  
-- 🧠 GitHub: [ppspoornesh](https://github.com/ppspoornesh)  
+- 🤖 AI / GenAI / Agentic AI  
+- 📊 Data Science / Analytics  
+- ⚙️ Backend / Systems Engineering  
+- 🧠 AI Product Roles  
 
 ---
 
-> ⚡ I don’t just build models — I build scalable systems that create real-world impact.
+## 🌍 Let's Connect
+
+- 📧 Email: pavansaipoornesh99@gmail.com  
+- 💼 LinkedIn: poornesh-pavan-sai-gorrela  
+- 🧠 GitHub: ppspoornesh  
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFAA,100:000000&height=120&section=footer"/>
+</p>
+
+> ⚡ I don’t just build models — I engineer intelligent systems that scale.
