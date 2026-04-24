@@ -26,20 +26,24 @@
 **Multi-Agent AI System with Real-Time Orchestration**
 
 #### 🧠 Architecture
-```mermaid
-flowchart LR
-A[User Voice] --> B[Speech-to-Text]
-B --> C[LLM Reasoning Engine]
-C --> D[Tool Calling Layer]
-D --> E[External APIs / Actions]
-E --> C
-C --> F[Memory Layer]
-F --> G[Text-to-Speech]
-G --> H[Response to User]
+```
+User Voice
+   ↓
+Speech-to-Text
+   ↓
+LLM Reasoning Engine
+   ↓
+Tool Calling Layer → External APIs
+   ↓
+Memory Layer
+   ↓
+Text-to-Speech
+   ↓
+Response to User
 ```
 
 #### ⚙️ System Overview
-- Designed a **multi-agent AI architecture** with tool orchestration  
+- Designed a **multi-agent AI architecture with tool orchestration**  
 - Implemented **reasoning pipelines + contextual memory**  
 - Built **real-time conversational loop with dynamic execution**  
 
@@ -60,13 +64,18 @@ G --> H[Response to User]
 **Production-Grade Retrieval-Augmented Generation System**
 
 #### 🧠 Architecture
-```mermaid
-flowchart LR
-A[User Query] --> B[Embedding Model]
-B --> C[Vector Database (FAISS)]
-C --> D[Relevant Context]
-D --> E[LLM Generation]
-E --> F[Final Answer]
+```
+User Query
+   ↓
+Embedding Model
+   ↓
+Vector Database (FAISS)
+   ↓
+Relevant Context Retrieval
+   ↓
+LLM Generation
+   ↓
+Final Answer
 ```
 
 #### ⚙️ System Overview
@@ -91,13 +100,18 @@ E --> F[Final Answer]
 **End-to-End Financial Risk Intelligence Platform**
 
 #### 🧠 Architecture
-```mermaid
-flowchart LR
-A[Transaction Data] --> B[Data Cleaning]
-B --> C[Feature Engineering]
-C --> D[Risk Scoring Model]
-D --> E[Fraud Classification]
-E --> F[Analytics Dashboard]
+```
+Transaction Data
+   ↓
+Data Cleaning
+   ↓
+Feature Engineering
+   ↓
+Risk Scoring Model
+   ↓
+Fraud Classification
+   ↓
+Analytics Dashboard
 ```
 
 #### ⚙️ System Overview
