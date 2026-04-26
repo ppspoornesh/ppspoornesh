@@ -348,7 +348,7 @@ AI-powered personalized design generation · Production-deployed · Real-world u
 <div align="center">
 <h2>🏆 GitHub Trophies</h2>
 
-<img src="https://github-profile-trophy.vercel.app/?username=ppspoornesh&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7" width="95%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ppspoornesh&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=-1" width="95%"/>
 
 </div>
 
