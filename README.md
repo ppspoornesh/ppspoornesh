@@ -1,10 +1,16 @@
 <div align="center">
 
+<!-- ═══════════════════════  ANIMATED HEADER BANNER  ═══════════════════════ -->
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Poornesh%20Gorrela&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Platform%20Engineer%20%7C%20GenAI%20%7C%20ML%20%7C%20Data%20%7C%20Product&descAlignY=60&descSize=20" width="100%"/>
+
+<!-- ═══════════════════════  TYPING ANIMATION (Fixed)  ═══════════════════════ -->
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=1000&color=00FFB3&background=00000000&center=true&vCenter=true&width=900&height=50&lines=Agentic+AI+%7C+LLMs+%7C+RAG+%7C+GenAI+%F0%9F%A4%96;ML+Engineer+%7C+Data+Scientist+%7C+Data+Analyst+%F0%9F%93%8A;Backend+SDE+%7C+FastAPI+%7C+System+Design+%F0%9F%9B%A0%EF%B8%8F;Building+Production-Grade+AI+Systems+%F0%9F%9A%80;From+Architecture+to+Deployment+to+Scale+%E2%9A%A1" alt="Typing SVG" />
 
 <br/>
+
+<!-- ═══════════════════════  BADGES  ═══════════════════════ -->
 
 [![Profile Views](https://komarev.com/ghpvc/?username=ppspoornesh&color=00FFB3&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/ppspoornesh)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/poornesh-pavan-sai-gorrela-8156a2252)
@@ -15,25 +21,56 @@
 
 ---
 
-<!-- ═══════════════════════  HOOK — FIRST IMPRESSION  ═══════════════════════ -->
+<!-- ═══════════════════════  WHO AM I  ═══════════════════════ -->
+
+<div align="center"><h2>⚡ Who Am I?</h2></div>
+
+```python
+class PoorneshGorrela:
+
+    roles = [
+        "AI Platform Engineer",   "GenAI Developer",       "ML Engineer",
+        "Data Scientist",          "Data Analyst",           "Backend SDE",
+        "AI/ML System Designer",   "Product-Minded Builder"
+    ]
+
+    stack = {
+        "LLMs & GenAI"    : ["OpenAI", "Claude", "Gemini", "LangChain", "LlamaIndex"],
+        "Agentic AI"      : ["Multi-Agent Systems", "Tool Calling", "RAG", "Memory Layers"],
+        "ML / Data"       : ["PyTorch", "Scikit-learn", "Pandas", "FAISS", "Feature Eng."],
+        "Backend & APIs"  : ["FastAPI", "Flask", "REST", "Microservices", "WebSockets"],
+        "Data & Storage"  : ["PostgreSQL", "MongoDB", "Redis", "Vector DBs"],
+        "Cloud & DevOps"  : ["AWS", "Docker", "Git", "CI/CD"],
+        "Visualization"   : ["Streamlit", "Plotly", "Matplotlib", "Dashboards"]
+    }
+
+    superpowers = [
+        "End-to-end AI System Design",
+        "Reducing hallucinations in production RAG",
+        "Real-time Agentic Orchestration",
+        "Turning raw data → actionable intelligence",
+        "Shipping AI products, not just prototypes"
+    ]
+
+    def mission(self):
+        return "Build AI systems that create measurable real-world impact 🚀"
+```
+
+---
+
+<!-- ═══════════════════════  ROLE BADGES  ═══════════════════════ -->
 
 <div align="center">
+<h2>🎯 Open To Roles In</h2>
 
-### ⚡ 6 AI Systems Built &nbsp;·&nbsp; 1 Live Product Shipped &nbsp;·&nbsp; 0 Fluff
-
-> *"I don't just build models. I build systems that think, act, and scale."*
-
-</div>
-
-<div align="center">
-
-| 🏆 What I've Done | 📊 The Number |
-|:---|:---:|
-| RAG Retrieval Accuracy Improvement | **+30%** |
-| End-to-End AI Systems Built & Shipped | **6+ Production Projects** |
-| Live Deployed AI Product (Real Users) | **[TokiTide →](https://tokitide.xyz)** |
-| Architectures Designed | **Multi-Agent · RAG · Fraud · Voice** |
-| Domains Mastered | **AI · ML · Data · Backend · Product** |
+![AI Engineer](https://img.shields.io/badge/AI%20Engineer-%2300FFB3?style=for-the-badge&logo=openai&logoColor=black)
+![GenAI Developer](https://img.shields.io/badge/GenAI%20Developer-%2300C9FF?style=for-the-badge&logo=anthropic&logoColor=black)
+![ML Engineer](https://img.shields.io/badge/ML%20Engineer-%23FF6B6B?style=for-the-badge&logo=pytorch&logoColor=white)
+![Data Scientist](https://img.shields.io/badge/Data%20Scientist-%23FFD700?style=for-the-badge&logo=jupyter&logoColor=black)
+![Data Analyst](https://img.shields.io/badge/Data%20Analyst-%23A78BFA?style=for-the-badge&logo=tableau&logoColor=white)
+![AI Product](https://img.shields.io/badge/AI%2FML%20Product-%23F97316?style=for-the-badge&logo=productboard&logoColor=white)
+![Backend SDE](https://img.shields.io/badge/Backend%20SDE-%2322D3EE?style=for-the-badge&logo=fastapi&logoColor=black)
+![LLM Engineer](https://img.shields.io/badge/LLM%20Engineer-%2310B981?style=for-the-badge&logo=huggingface&logoColor=white)
 
 </div>
 
@@ -86,7 +123,7 @@ LLM Generation
  Accurate Answer ✅
 ```
 
-- 📈 **+30%** improvement in retrieval accuracy
+- 📈 **30% improvement** in retrieval accuracy
 - 🛡️ Evaluation layer to detect & reduce hallucinations
 - ⚙️ Full pipeline: ingestion → retrieval → generation
 
@@ -166,107 +203,6 @@ AI-powered personalized design generation · Production-deployed · Real-world u
 
 ---
 
-<!-- ═══════════════════════  ROLES — PC MONITOR DISPLAY  ═══════════════════════ -->
-
-<div align="center">
-<h2>🎯 Open To Roles In</h2>
-</div>
-
-```
- ╔══════════════════════════════════════════════════════════════════════════╗
- ║  ●  ●  ●     poornesh@ai-career: ~ $ ./show-roles --all --hire-me      ║
- ╠══════════════════════════════════════════════════════════════════════════╣
- ║                                                                          ║
- ║   Scanning available roles...  ██████████████████████████████  100% ✓   ║
- ║                                                                          ║
- ║   ┌──────────────────────┐   ┌──────────────────────────────┐           ║
- ║   │  🤖  AI Engineer     │   │  🧬  GenAI Developer         │           ║
- ║   │  Agentic · LLMs · RAG│   │  Prompts · Pipelines · APIs  │           ║
- ║   └──────────────────────┘   └──────────────────────────────┘           ║
- ║                                                                          ║
- ║   ┌──────────────────────┐   ┌──────────────────────────────┐           ║
- ║   │  🔬  ML Engineer     │   │  📊  Data Scientist          │           ║
- ║   │  PyTorch · Eval · Ops│   │  EDA · Stats · Modeling      │           ║
- ║   └──────────────────────┘   └──────────────────────────────┘           ║
- ║                                                                          ║
- ║   ┌──────────────────────┐   ┌──────────────────────────────┐           ║
- ║   │  📈  Data Analyst    │   │  🛠️  Backend SDE             │           ║
- ║   │  SQL · Dashboards    │   │  FastAPI · Microservices     │           ║
- ║   └──────────────────────┘   └──────────────────────────────┘           ║
- ║                                                                          ║
- ║   ┌──────────────────────┐   ┌──────────────────────────────┐           ║
- ║   │  💡  AI Product Mgr  │   │  🧠  LLM Engineer            │           ║
- ║   │  Strategy · UX · GTM │   │  Evals · Fine-tune · Scale   │           ║
- ║   └──────────────────────┘   └──────────────────────────────┘           ║
- ║                                                                          ║
- ║   > Status: ACTIVELY LOOKING  |  Response time: < 24hrs  |  DM open ✅  ║
- ║                                                                          ║
- ╚══════════════════════════════════════════════════════════════════════════╝
-          ║                                                          ║
-          ╚══════════════════════╦═══════════════════════════════════╝
-                                 ║
-                       ══════════╩══════════
-                       ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-                       ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-```
-
----
-
-<!-- ═══════════════════════  SKILL DEPTH TABLE  ═══════════════════════ -->
-
-<div align="center">
-<h2>🎯 Skill Depth by Role</h2>
-
-| Role | Core Skills | Level |
-|------|------------|-------|
-| 🤖 **AI / GenAI Engineer** | Agentic AI, RAG, LLMs, Prompt Eng, Vector DBs | `████████████ 95%` |
-| 🧠 **ML Engineer** | PyTorch, Scikit-learn, Feature Eng, Model Eval | `██████████░░ 85%` |
-| 📊 **Data Scientist** | EDA, Statistics, Modeling, Experimentation | `██████████░░ 85%` |
-| 📈 **Data Analyst** | SQL, Pandas, Dashboards, Risk Analytics | `███████████░ 90%` |
-| 🛠️ **Backend SDE** | FastAPI, Microservices, REST, System Design | `██████████░░ 85%` |
-| 💡 **AI Product** | AI Product Strategy, User Flow, Deployment | `█████████░░░ 80%` |
-
-</div>
-
----
-
-<!-- ═══════════════════════  WHO AM I  ═══════════════════════ -->
-
-<div align="center"><h2>⚡ Who Am I?</h2></div>
-
-```python
-class PoorneshGorrela:
-
-    roles = [
-        "AI Platform Engineer",   "GenAI Developer",       "ML Engineer",
-        "Data Scientist",          "Data Analyst",           "Backend SDE",
-        "AI/ML System Designer",   "Product-Minded Builder"
-    ]
-
-    stack = {
-        "LLMs & GenAI"    : ["OpenAI", "Claude", "Gemini", "LangChain", "LlamaIndex"],
-        "Agentic AI"      : ["Multi-Agent Systems", "Tool Calling", "RAG", "Memory Layers"],
-        "ML / Data"       : ["PyTorch", "Scikit-learn", "Pandas", "FAISS", "Feature Eng."],
-        "Backend & APIs"  : ["FastAPI", "Flask", "REST", "Microservices", "WebSockets"],
-        "Data & Storage"  : ["PostgreSQL", "MongoDB", "Redis", "Vector DBs"],
-        "Cloud & DevOps"  : ["AWS", "Docker", "Git", "CI/CD"],
-        "Visualization"   : ["Streamlit", "Plotly", "Matplotlib", "Dashboards"]
-    }
-
-    superpowers = [
-        "End-to-end AI System Design",
-        "Reducing hallucinations in production RAG",
-        "Real-time Agentic Orchestration",
-        "Turning raw data → actionable intelligence",
-        "Shipping AI products, not just prototypes"
-    ]
-
-    def mission(self):
-        return "Build AI systems that create measurable real-world impact 🚀"
-```
-
----
-
 <!-- ═══════════════════════  TECH STACK  ═══════════════════════ -->
 
 <div align="center"><h2>⚙️ Full Tech Arsenal</h2></div>
@@ -312,14 +248,36 @@ class PoorneshGorrela:
 
 ---
 
-<!-- ═══════════════════════  DAILY TOOLS  ═══════════════════════ -->
+<!-- ═══════════════════════  SKILL DEPTH TABLE  ═══════════════════════ -->
 
 <div align="center">
-<h2>🛠️ Tech I Work With Daily</h2>
+<h2>🎯 Skill Depth by Role</h2>
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,docker,aws,postgres,mongodb,redis,react,typescript&perline=10" />
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=github,git,flask,sklearn,linux,vscode,postman,figma,vercel,kubernetes&perline=10" />
+| Role | Core Skills | Level |
+|------|------------|-------|
+| 🤖 **AI / GenAI Engineer** | Agentic AI, RAG, LLMs, Prompt Eng, Vector DBs | `████████████ 95%` |
+| 🧠 **ML Engineer** | PyTorch, Scikit-learn, Feature Eng, Model Eval | `██████████░░ 85%` |
+| 📊 **Data Scientist** | EDA, Statistics, Modeling, Experimentation | `██████████░░ 85%` |
+| 📈 **Data Analyst** | SQL, Pandas, Dashboards, Risk Analytics | `███████████░ 90%` |
+| 🛠️ **Backend SDE** | FastAPI, Microservices, REST, System Design | `██████████░░ 85%` |
+| 💡 **AI Product** | AI Product Strategy, User Flow, Deployment | `█████████░░░ 80%` |
+
+</div>
+
+---
+
+<!-- ═══════════════════════  IMPACT METRICS  ═══════════════════════ -->
+
+<div align="center">
+<h2>📈 Measurable Impact</h2>
+
+| 🏆 Achievement | 📊 Metric |
+|---|---|
+| RAG Retrieval Accuracy Improvement | **+30%** |
+| AI Systems Built End-to-End | **6+ production projects** |
+| Live Deployed AI Product | **TokiTide → tokitide.xyz** |
+| System Architectures Designed | **Multi-agent · RAG · Fraud · Voice** |
+| Tech Domains Covered | **AI · ML · Data · Backend · Product** |
 
 </div>
 
@@ -379,8 +337,20 @@ class PoorneshGorrela:
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ppspoornesh/ppspoornesh/output/github-snake-dark.svg"/>
 </picture>
 
+
 </div>
 
+---
+
+<!-- ═══════════════════════  GITHUB TROPHIES  ═══════════════════════ -->
+<div align="center">
+<h2>🛠️ Tech I Work With Daily</h2>
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,docker,aws,postgres,mongodb,redis,react,typescript&perline=10" />
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=github,git,flask,sklearn,linux,vscode,postman,figma,vercel,kubernetes&perline=10" />
+
+</div>
 ---
 
 <!-- ═══════════════════════  CURRENTLY  ═══════════════════════ -->
