@@ -337,21 +337,20 @@ AI-powered personalized design generation · Production-deployed · Real-world u
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ppspoornesh/ppspoornesh/output/github-snake-dark.svg"/>
 </picture>
 
-> 💡 **To activate:** Add `snake.yml` (provided below) to `.github/workflows/` → Go to **Actions → Generate Snake → Run workflow**
 
 </div>
 
 ---
 
 <!-- ═══════════════════════  GITHUB TROPHIES  ═══════════════════════ -->
-
 <div align="center">
-<h2>🏆 GitHub Trophies</h2>
+<h2>🛠️ Tech I Work With Daily</h2>
 
-<img src="https://github-profile-trophy.vercel.app/?username=ppspoornesh&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=-1" width="95%"/>
+<img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,docker,aws,postgres,mongodb,redis,react,typescript&perline=10" />
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=github,git,flask,sklearn,linux,vscode,postman,figma,vercel,kubernetes&perline=10" />
 
 </div>
-
 ---
 
 <!-- ═══════════════════════  CURRENTLY  ═══════════════════════ -->
