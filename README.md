@@ -1,23 +1,80 @@
+<!-- ████████████████████████████████████████████████████████████████████████ -->
+<!-- ██                    POORNESH GORRELA — README.md                    ██ -->
+<!-- ████████████████████████████████████████████████████████████████████████ -->
+
 <div align="center">
 
-<!-- ═══════════════════════  ANIMATED HEADER BANNER  ═══════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=280&section=header&text=POORNESH%20GORRELA&fontSize=65&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=⚡%20AI%20Platform%20Engineer%20·%20GenAI%20·%20ML%20·%20Data%20·%20Product%20⚡&descAlignY=60&descSize=18&stroke=00FFB3&strokeWidth=2" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Poornesh%20Gorrela&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Platform%20Engineer%20%7C%20GenAI%20%7C%20ML%20%7C%20Data%20%7C%20Product&descAlignY=60&descSize=20" width="100%"/>
+</div>
 
-<!-- ═══════════════════════  TYPING ANIMATION (Fixed)  ═══════════════════════ -->
+<!-- ═══════════════════════  LIVE STATUS BAR  ═══════════════════════ -->
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=1000&color=00FFB3&background=00000000&center=true&vCenter=true&width=900&height=50&lines=Agentic+AI+%7C+LLMs+%7C+RAG+%7C+GenAI+%F0%9F%A4%96;ML+Engineer+%7C+Data+Scientist+%7C+Data+Analyst+%F0%9F%93%8A;Backend+SDE+%7C+FastAPI+%7C+System+Design+%F0%9F%9B%A0%EF%B8%8F;Building+Production-Grade+AI+Systems+%F0%9F%9A%80;From+Architecture+to+Deployment+to+Scale+%E2%9A%A1" alt="Typing SVG" />
+<div align="center">
+
+```
+◉ SYSTEM ONLINE  ·  🧠 BUILDING AI SYSTEMS  ·  🚀 OPEN TO OPPORTUNITIES  ·  ⚡ SHIPPING DAILY
+```
+
+</div>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=22&duration=2000&pause=800&color=00FFB3&background=00000000&center=true&vCenter=true&width=900&height=55&lines=🤖+Agentic+AI+%7C+LLMs+%7C+RAG+%7C+Vector+Search;🧠+ML+Engineer+%7C+Data+Scientist+%7C+Analyst;⚡+FastAPI+%7C+Microservices+%7C+System+Design;🚀+End-to-End+AI+Systems+that+ACTUALLY+Ship;💡+Turning+Raw+Data+→+Real-World+Impact" alt="Typing SVG" />
+
+</div>
+
+<div align="center">
+
+[![Profile Views](https://komarev.com/ghpvc/?username=ppspoornesh&color=00FFB3&style=for-the-badge&label=◉+PROFILE+VIEWS)](https://github.com/ppspoornesh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/poornesh-pavan-sai-gorrela-8156a2252)
+[![Email](https://img.shields.io/badge/Email-Hire%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pavansaipoornesh99@gmail.com)
+[![TokiTide](https://img.shields.io/badge/🌐%20Live%20Product-TokiTide-22C55E?style=for-the-badge)](https://tokitide.xyz)
+
+</div>
+
+---
+
+<!-- ═══════════════════════  TERMINAL BOOT  ═══════════════════════ -->
+
+<details open>
+<summary><b>💻 &nbsp;[ INITIALIZING AGENT... CLICK TO EXPAND ]</b></summary>
 
 <br/>
 
-<!-- ═══════════════════════  BADGES  ═══════════════════════ -->
+```bash
+$ ssh poornesh@ai-systems.lab
+> Authenticating... ██████████████████████ 100%
+> Loading profile...
 
-[![Profile Views](https://komarev.com/ghpvc/?username=ppspoornesh&color=00FFB3&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/ppspoornesh)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/poornesh-pavan-sai-gorrela-8156a2252)
-[![Email](https://img.shields.io/badge/Email-Hire%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pavansaipoornesh99@gmail.com)
-[![TokiTide](https://img.shields.io/badge/Live%20Product-TokiTide-22C55E?style=for-the-badge&logo=vercel&logoColor=white)](https://tokitide.xyz)
+┌─────────────────────────────────────────────────────────────────┐
+│                                                                  │
+│   AGENT PROFILE   ::   POORNESH GORRELA v2.5.1                 │
+│   ─────────────────────────────────────────────────────────    │
+│                                                                  │
+│   STATUS      : ◉ Active & Available for hire                  │
+│   LOCATION    : India 🇮🇳                                      │
+│   DEPLOYED AT : Darwix AI (AI Platform Intern)                  │
+│   LIVE PRODUCT: tokitide.xyz                                    │
+│   UPTIME      : 24/7 Building. Always.                         │
+│                                                                  │
+│   SPECIALIZATIONS:                                              │
+│   ├── Agentic AI & Multi-Agent Systems    [████████████] 95%   │
+│   ├── RAG Pipelines & Vector Search       [████████████] 95%   │
+│   ├── LLM Orchestration & Prompt Eng.    [███████████░] 90%   │
+│   ├── ML Engineering (PyTorch/Sklearn)    [██████████░░] 85%   │
+│   ├── Data Science & Analytics           [██████████░░] 85%   │
+│   ├── Backend APIs (FastAPI)             [██████████░░] 85%   │
+│   └── AI Product Strategy               [█████████░░░] 80%   │
+│                                                                  │
+│   CURRENT MISSION: Build AI that creates measurable impact 🚀  │
+│                                                                  │
+└─────────────────────────────────────────────────────────────────┘
 
-</div>
+> Agent ready. What would you like to build today?
+```
+
+</details>
 
 ---
 
@@ -26,34 +83,52 @@
 <div align="center"><h2>⚡ Who Am I?</h2></div>
 
 ```python
-class PoorneshGorrela:
+#!/usr/bin/env python3
+# poornesh_gorrela.py  ·  AI Platform Engineer
 
-    roles = [
-        "AI Platform Engineer",   "GenAI Developer",       "ML Engineer",
-        "Data Scientist",          "Data Analyst",           "Backend SDE",
-        "AI/ML System Designer",   "Product-Minded Builder"
-    ]
+from __future__ import annotations
+from typing import Literal
+
+class PoorneshGorrela:
+    """
+    Full-stack AI engineer who ships production systems — not just notebooks.
+    Built agentic pipelines, RAG systems, fraud detectors, live AI products.
+    """
+
+    name     = "Poornesh Gorrela"
+    tagline  = "I don't just build models. I build systems that think, act, and scale."
+    timezone = "IST (UTC+5:30)"
+    status   = "🟢 Open to full-time AI/ML/Data/SDE roles globally"
 
     stack = {
-        "LLMs & GenAI"    : ["OpenAI", "Claude", "Gemini", "LangChain", "LlamaIndex"],
-        "Agentic AI"      : ["Multi-Agent Systems", "Tool Calling", "RAG", "Memory Layers"],
-        "ML / Data"       : ["PyTorch", "Scikit-learn", "Pandas", "FAISS", "Feature Eng."],
-        "Backend & APIs"  : ["FastAPI", "Flask", "REST", "Microservices", "WebSockets"],
-        "Data & Storage"  : ["PostgreSQL", "MongoDB", "Redis", "Vector DBs"],
-        "Cloud & DevOps"  : ["AWS", "Docker", "Git", "CI/CD"],
-        "Visualization"   : ["Streamlit", "Plotly", "Matplotlib", "Dashboards"]
+        "🧠 LLMs & GenAI"   : ["OpenAI", "Claude", "Gemini", "HuggingFace"],
+        "🔗 Orchestration"  : ["LangChain", "LlamaIndex", "RAG", "Tool Calling"],
+        "🤖 Agentic AI"     : ["Multi-Agent Systems", "Memory Layers", "Planning"],
+        "📊 ML / Data"      : ["PyTorch", "Scikit-learn", "Pandas", "NumPy", "FAISS"],
+        "⚡ Backend"         : ["FastAPI", "Flask", "REST", "Microservices", "Redis"],
+        "🗄️ Storage"        : ["PostgreSQL", "MongoDB", "Vector DBs", "Redis"],
+        "☁️ Cloud & DevOps" : ["AWS", "Docker", "Git", "CI/CD", "Streamlit"],
     }
 
     superpowers = [
-        "End-to-end AI System Design",
-        "Reducing hallucinations in production RAG",
-        "Real-time Agentic Orchestration",
-        "Turning raw data → actionable intelligence",
-        "Shipping AI products, not just prototypes"
+        "📐 End-to-end AI System Design (architecture → deployment → scale)",
+        "🛡️ Reducing hallucinations in production RAG systems",
+        "⚡ Real-time Agentic Orchestration with persistent memory",
+        "🔍 Turning messy raw data into actionable intelligence",
+        "🚢 Shipping AI products — not just prototypes",
     ]
 
-    def mission(self):
-        return "Build AI systems that create measurable real-world impact 🚀"
+    def __repr__(self) -> str:
+        return f"<AIEngineer: {self.name} | status={self.status!r}>"
+
+    def hire_me(self) -> str:
+        return "pavansaipoornesh99@gmail.com 📩"
+
+
+if __name__ == "__main__":
+    me = PoorneshGorrela()
+    print(me)          # <AIEngineer: Poornesh Gorrela | status='🟢 Open to roles'>
+    print(me.hire_me())
 ```
 
 ---
@@ -63,204 +138,277 @@ class PoorneshGorrela:
 <div align="center">
 <h2>🎯 Open To Roles In</h2>
 
-![AI Engineer](https://img.shields.io/badge/AI%20Engineer-%2300FFB3?style=for-the-badge&logo=openai&logoColor=black)
-![GenAI Developer](https://img.shields.io/badge/GenAI%20Developer-%2300C9FF?style=for-the-badge&logo=anthropic&logoColor=black)
-![ML Engineer](https://img.shields.io/badge/ML%20Engineer-%23FF6B6B?style=for-the-badge&logo=pytorch&logoColor=white)
-![Data Scientist](https://img.shields.io/badge/Data%20Scientist-%23FFD700?style=for-the-badge&logo=jupyter&logoColor=black)
-![Data Analyst](https://img.shields.io/badge/Data%20Analyst-%23A78BFA?style=for-the-badge&logo=tableau&logoColor=white)
-![AI Product](https://img.shields.io/badge/AI%2FML%20Product-%23F97316?style=for-the-badge&logo=productboard&logoColor=white)
-![Backend SDE](https://img.shields.io/badge/Backend%20SDE-%2322D3EE?style=for-the-badge&logo=fastapi&logoColor=black)
-![LLM Engineer](https://img.shields.io/badge/LLM%20Engineer-%2310B981?style=for-the-badge&logo=huggingface&logoColor=white)
+![AI Engineer](https://img.shields.io/badge/🤖%20AI%20Engineer-%2300FFB3?style=for-the-badge&logoColor=black)
+![GenAI Developer](https://img.shields.io/badge/🧬%20GenAI%20Developer-%2300C9FF?style=for-the-badge&logoColor=black)
+![ML Engineer](https://img.shields.io/badge/🔬%20ML%20Engineer-%23FF6B6B?style=for-the-badge&logoColor=white)
+![Data Scientist](https://img.shields.io/badge/📊%20Data%20Scientist-%23FFD700?style=for-the-badge&logoColor=black)
+![Data Analyst](https://img.shields.io/badge/📈%20Data%20Analyst-%23A78BFA?style=for-the-badge&logoColor=white)
+![Backend SDE](https://img.shields.io/badge/⚡%20Backend%20SDE-%2322D3EE?style=for-the-badge&logoColor=black)
+![LLM Engineer](https://img.shields.io/badge/💡%20LLM%20Engineer-%2310B981?style=for-the-badge&logoColor=white)
+![AI Product](https://img.shields.io/badge/🚀%20AI%20Product-%23F97316?style=for-the-badge&logoColor=white)
 
 </div>
 
 ---
 
-<!-- ═══════════════════════  FEATURED SYSTEMS  ═══════════════════════ -->
+<!-- ═══════════════════════  PROJECTS  ═══════════════════════ -->
 
-<div align="center"><h2>🚀 Featured Systems — Built. Shipped. Measured.</h2></div>
+<div align="center">
+<h2>🚀 Featured Systems — Built. Shipped. Measured.</h2>
+<sub>Click any project terminal to explore ↓</sub>
+</div>
 
-<table align="center" width="100%">
-<tr>
-<td width="50%" valign="top">
+<br/>
 
-### 🤖 Agentic AI Voice Assistant
-> **Multi-Agent System with Real-Time Orchestration**
-
-```
-Voice Input
-    ↓  [Speech-to-Text]
-LLM Reasoning Engine
-    ↓  [Tool Calling Layer]
-External APIs / Memory
-    ↓  [Context Injection]
-Response Synthesis
-    ↓  [Text-to-Speech]
- User ← Real-Time Output
-```
-
-- 🧠 Multi-agent architecture with dynamic tool routing
-- 💾 Persistent contextual memory layer
-- ⚡ Sub-second real-time conversational loop
-
-[![Watch Demo](https://img.shields.io/badge/%E2%96%B6%20Watch%20Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=pbH4afMm47g)
-
-</td>
-<td width="50%" valign="top">
-
-### 🧠 Medical RAG Assistant
-> **Production-Grade Retrieval-Augmented Generation**
+<!-- PROJECT 1 -->
+<details open>
+<summary>
+  <b>🤖 &nbsp; Agentic AI Voice Assistant &nbsp;—&nbsp; Multi-Agent · Tool Calling · Real-Time</b>
+</summary>
+<br/>
 
 ```
-User Query
-    ↓  [Embedding Model]
-Semantic Search
-    ↓  [FAISS Vector DB]
-Context Retrieval
-    ↓  [Prompt Assembly]
-LLM Generation
-    ↓  [Hallucination Filter]
- Accurate Answer ✅
+╔══════════════════════════════════════════════════════════════════════╗
+║  SYSTEM: Agentic AI Voice Assistant   STATUS: ◉ LIVE & RUNNING     ║
+╠══════════════════════════════════════════════════════════════════════╣
+║                                                                      ║
+║   [VOICE INPUT]  ──STT──►  [LLM REASONING ENGINE]                  ║
+║        ↑                          │                                  ║
+║        │              ┌───────────▼────────────┐                    ║
+║        │              │    TOOL ROUTING LAYER   │                   ║
+║        │              └───┬────────┬────────┬───┘                   ║
+║        │                  ▼        ▼        ▼                       ║
+║        │            [API Call] [Memory] [Search]                    ║
+║        │                  └────────┬────────┘                       ║
+║        │              ┌────────────▼──────────┐                     ║
+║        │              │   CONTEXT INJECTION    │                     ║
+║        │              └────────────┬──────────┘                     ║
+║        │                           ▼                                 ║
+║        └──────────TTS────  [RESPONSE SYNTHESIS]                     ║
+║                                                                      ║
+║  ✦ Multi-agent architecture with dynamic tool routing               ║
+║  ✦ Persistent contextual memory across conversations                ║
+║  ✦ Sub-second real-time conversational loop                         ║
+║  ✦ Fallback chains for API resilience                               ║
+╚══════════════════════════════════════════════════════════════════════╝
 ```
 
-- 📈 **30% improvement** in retrieval accuracy
-- 🛡️ Evaluation layer to detect & reduce hallucinations
-- ⚙️ Full pipeline: ingestion → retrieval → generation
+[![▶ Watch Demo](https://img.shields.io/badge/▶%20Watch%20Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=pbH4afMm47g)
 
-[![Watch Demo](https://img.shields.io/badge/%E2%96%B6%20Watch%20Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=qmS9I-KiB28)
+</details>
 
-</td>
-</tr>
+---
 
-<tr>
-<td width="50%" valign="top">
-
-### 💰 Fraud Detection Analytics Platform
-> **End-to-End Financial Risk Intelligence**
+<!-- PROJECT 2 -->
+<details open>
+<summary>
+  <b>🧠 &nbsp; Medical RAG Assistant &nbsp;—&nbsp; FAISS · Hallucination Filter · Production-Grade</b>
+</summary>
+<br/>
 
 ```
-Transaction Data
-    ↓  [Python + SQL Pipelines]
-Feature Engineering
-    ↓  [Anomaly Detection]
-Risk Scoring Model
-    ↓  [Fraud Classification]
-Interactive Dashboard 📊
+╔══════════════════════════════════════════════════════════════════════╗
+║  SYSTEM: Medical RAG Assistant        STATUS: ◉ PRODUCTION          ║
+╠══════════════════════════════════════════════════════════════════════╣
+║                                                                      ║
+║  [USER QUERY] ──embed──► [FAISS VECTOR DB]                          ║
+║                                  │                                   ║
+║                    ┌─────────────▼──────────────┐                   ║
+║                    │  TOP-K SEMANTIC RETRIEVAL   │                   ║
+║                    └─────────────┬──────────────┘                   ║
+║                                  ▼                                   ║
+║                    ┌─────────────────────────────┐                  ║
+║                    │   PROMPT ASSEMBLY ENGINE     │                  ║
+║                    │   context + query + rules    │                  ║
+║                    └─────────────┬───────────────┘                  ║
+║                                  ▼                                   ║
+║                         [LLM GENERATION]                             ║
+║                                  │                                   ║
+║                    ┌─────────────▼───────────────┐                  ║
+║                    │  🛡️ HALLUCINATION FILTER     │                  ║
+║                    └─────────────┬───────────────┘                  ║
+║                                  ▼                                   ║
+║                    ✅  VERIFIED ACCURATE ANSWER                      ║
+║                                                                      ║
+║  📈 +30% retrieval accuracy over baseline                           ║
+║  🛡️ Custom eval layer catches hallucinations before delivery        ║
+║  ⚙️ Full pipeline: ingestion → chunking → retrieval → generation    ║
+╚══════════════════════════════════════════════════════════════════════╝
 ```
 
-- 🏦 Data Engineering + ML + Analytics combined
-- 📊 Real-time Streamlit risk monitoring dashboard
-- 🔍 Pattern-based anomaly detection with ML scoring
+[![▶ Watch Demo](https://img.shields.io/badge/▶%20Watch%20Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=qmS9I-KiB28)
+
+</details>
+
+---
+
+<!-- PROJECT 3 -->
+<details>
+<summary>
+  <b>💰 &nbsp; Fraud Detection Analytics Platform &nbsp;—&nbsp; ML · Risk Scoring · Real-Time Dashboard</b>
+</summary>
+<br/>
+
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║  SYSTEM: Fraud Detection Platform     STATUS: ◉ MONITORING          ║
+╠══════════════════════════════════════════════════════════════════════╣
+║                                                                      ║
+║  [TRANSACTION STREAM]                                                ║
+║         │                                                            ║
+║  ┌──────▼──────────────────────────────┐                            ║
+║  │       DATA ENGINEERING PIPELINE     │                            ║
+║  │   Python + SQL · Feature Extraction │                            ║
+║  └──────┬──────────────────────────────┘                            ║
+║         │                                                            ║
+║  ┌──────▼────────────────────────────────────┐                      ║
+║  │            ANOMALY DETECTION              │                      ║
+║  │   Pattern Analysis · Behavioral Signals   │                      ║
+║  └──────┬────────────────────────────────────┘                      ║
+║         │                                                            ║
+║  ┌──────▼───────────────────────────────────────┐                   ║
+║  │   ML RISK SCORING ENGINE (Fraud Classifier)  │                   ║
+║  │   0.00 ─────────────────────────────── 1.00  │                   ║
+║  │   SAFE ◦◦◦◦◦◦◦◦◦◦●◦◦◦◦◦◦◦◦◦◦◦◦◦ HIGH RISK  │                   ║
+║  └──────┬───────────────────────────────────────┘                   ║
+║         │                                                            ║
+║  ┌──────▼──────────────────────────────────────────┐                ║
+║  │  📊 REAL-TIME STREAMLIT RISK DASHBOARD          │                ║
+║  │  Transactions · Risk Heatmaps · Alerts · Trends │                ║
+║  └─────────────────────────────────────────────────┘                ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
 
 [![View Repo](https://img.shields.io/badge/View%20Repository-00FFB3?style=for-the-badge&logo=github&logoColor=black)](https://github.com/ppspoornesh/fraud-detection-analytics-system)
 
-</td>
-<td width="50%" valign="top">
+</details>
 
-### 🎬 Pitch Visualizer + 💬 Empathy Engine
-> **LLM Orchestration · NLP · Speech AI**
+---
 
-**Pitch Visualizer:**
-```
-Text Brief → LLM Pipeline → Visual Scenes
-+ Fallback mechanisms on API failures
-```
+<!-- PROJECT 4 -->
+<details>
+<summary>
+  <b>🎬 &nbsp; Pitch Visualizer + 💬 Empathy Engine &nbsp;—&nbsp; LLM Orchestration · NLP · Speech AI</b>
+</summary>
+<br/>
 
-**Empathy Engine:**
 ```
-Text → VADER Sentiment → Adaptive Speech
-(tone, pitch, intensity dynamically tuned)
+╔══════════════════════════════════════════════════════════════════════╗
+║  SYSTEM: Pitch Visualizer             STATUS: ◉ DEPLOYED            ║
+╠══════════════════════════════════════════════════════════════════════╣
+║                                                                      ║
+║  Text Brief → [LLM Pipeline] → Visual Scene Storyboard              ║
+║                      │                                               ║
+║              ┌───────▼────────┐                                      ║
+║              │ FALLBACK CHAIN │ ← resilience on API failures         ║
+║              └───────┬────────┘                                      ║
+║                      ▼                                               ║
+║           Coherent Narrative + Visuals ✅                            ║
+╠══════════════════════════════════════════════════════════════════════╣
+║  SYSTEM: Empathy Engine               STATUS: ◉ DEPLOYED            ║
+╠══════════════════════════════════════════════════════════════════════╣
+║                                                                      ║
+║  Text → [VADER Sentiment] → Emotion Score                            ║
+║                                  │                                   ║
+║              ┌───────────────────▼───────────────────┐              ║
+║              │    ADAPTIVE SPEECH SYNTHESIS ENGINE    │              ║
+║              │  tone ←── pitch ←── intensity ←── pace│              ║
+║              └───────────────────┬───────────────────┘              ║
+║                                  ▼                                   ║
+║            Emotion-Aware Voice Output 🎭                             ║
+╚══════════════════════════════════════════════════════════════════════╝
 ```
-
-- 🧠 LLM orchestration + fallback engineering
-- 🎭 Emotion-aware adaptive speech generation
 
 [![Pitch Visualizer](https://img.shields.io/badge/Pitch%20Visualizer-4F46E5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ppspoornesh/pitch-visualizer)
 [![Empathy Engine](https://img.shields.io/badge/Empathy%20Engine-EC4899?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ppspoornesh/empathy-engine)
 
-</td>
-</tr>
-
-<tr>
-<td colspan="2" align="center">
-
-### 👕 TokiTide — AI Personalization Platform
-> **Full-Stack AI Product · Deployed & Live**
-
-```
-User Preferences  →  AI Design Engine  →  Personalized Output  →  End-to-End UX
-       ↑                                                                  ↓
-   Product Logic  ←←←←←←←   Feedback Loop   ←←←←←←←←←←←←  Real Users
-```
-
-AI-powered personalized design generation · Production-deployed · Real-world user flow
-
-[![Visit Live](https://img.shields.io/badge/%F0%9F%8C%90%20Visit%20Live%20Product-22C55E?style=for-the-badge)](https://tokitide.xyz)
-
-</td>
-</tr>
-</table>
-
----
-
-<!-- ═══════════════════════  TECH STACK  ═══════════════════════ -->
-
-<div align="center"><h2>⚙️ Full Tech Arsenal</h2></div>
-
-<details open>
-<summary><b>🤖 AI / GenAI / LLMs</b></summary><br>
-
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-7C3AED?style=flat-square&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS%20Vector%20DB-FF6B35?style=flat-square&logoColor=white)
-![RAG Pipelines](https://img.shields.io/badge/RAG%20Pipelines-00B4D8?style=flat-square&logoColor=white)
-![Agentic AI](https://img.shields.io/badge/Agentic%20AI-10B981?style=flat-square&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-F59E0B?style=flat-square&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FF9900?style=flat-square&logo=huggingface&logoColor=white)
-</details>
-
-<details open>
-<summary><b>📊 Data Science / ML / Analytics</b></summary><br>
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-</details>
-
-<details>
-<summary><b>🛠️ Backend / Cloud / DevOps</b></summary><br>
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 </details>
 
 ---
 
-<!-- ═══════════════════════  SKILL DEPTH TABLE  ═══════════════════════ -->
+<!-- PROJECT 5 — TOKITIDE FLAGSHIP -->
 
 <div align="center">
-<h2>🎯 Skill Depth by Role</h2>
 
-| Role | Core Skills | Level |
-|------|------------|-------|
-| 🤖 **AI / GenAI Engineer** | Agentic AI, RAG, LLMs, Prompt Eng, Vector DBs | `████████████ 95%` |
-| 🧠 **ML Engineer** | PyTorch, Scikit-learn, Feature Eng, Model Eval | `██████████░░ 85%` |
-| 📊 **Data Scientist** | EDA, Statistics, Modeling, Experimentation | `██████████░░ 85%` |
-| 📈 **Data Analyst** | SQL, Pandas, Dashboards, Risk Analytics | `███████████░ 90%` |
-| 🛠️ **Backend SDE** | FastAPI, Microservices, REST, System Design | `██████████░░ 85%` |
-| 💡 **AI Product** | AI Product Strategy, User Flow, Deployment | `█████████░░░ 80%` |
+```
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                                                                              ║
+║        👕  TokiTide — AI Personalization Platform  ·  LIVE IN PROD          ║
+║                                                                              ║
+║   ┌───────────────┐    ┌──────────────────┐    ┌──────────────────────┐     ║
+║   │ User Prefs &  │───►│  AI Design       │───►│  Personalized Output │     ║
+║   │ Style Input   │    │  Engine (LLM)    │    │  + End-to-End UX     │     ║
+║   └───────────────┘    └──────────────────┘    └──────────┬───────────┘     ║
+║           ▲                                               │                  ║
+║           └─────────── Real User Feedback Loop ◄─────────┘                  ║
+║                                                                              ║
+║              tokitide.xyz  ·  Real users  ·  Production deployed             ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+```
+
+[![🌐 Visit Live Product](https://img.shields.io/badge/🌐%20Visit%20TokiTide.xyz-22C55E?style=for-the-badge)](https://tokitide.xyz)
+
+</div>
+
+---
+
+<!-- ═══════════════════════  SKILL TREE  ═══════════════════════ -->
+
+<div align="center">
+<h2>🌲 Skill Tree — RPG Edition</h2>
+</div>
+
+```
+                         ╔══════════════════╗
+                         ║   POORNESH.EXE   ║
+                         ║   LVL 25 Builder ║
+                         ╚════════╤═════════╝
+                                  │
+           ┌──────────────────────┼──────────────────────┐
+           ▼                      ▼                      ▼
+    ╔════════════╗        ╔═══════════════╗       ╔════════════╗
+    ║ 🧠 AI TREE ║        ║ 📊 DATA TREE  ║       ║ ⚡ DEV TREE║
+    ║  LVL: MAX  ║        ║  LVL: HIGH   ║       ║  LVL: HIGH ║
+    ╚══════╤═════╝        ╚═══════╤══════╝       ╚══════╤═════╝
+           │                      │                      │
+    ┌──────┴──────┐        ┌──────┴─────┐        ┌──────┴──────┐
+    ▼             ▼        ▼            ▼         ▼             ▼
+ [LLMs]    [RAG+Agents] [Science]  [Analytics]  [FastAPI]  [Infra]
+    │             │        │            │             │          │
+  ┌─┴─┐       ┌──┴──┐  ┌──┴──┐     ┌───┴──┐     ┌───┴──┐  ┌───┴──┐
+  │GPT│       │FAISS│  │PyTrch│    │Pandas│     │Flask │  │Docker│
+  │Cld│       │LangC│  │Skl-ln│    │SQL   │     │Redis │  │AWS   │
+  │Gem│       │Llama│  │NumPy │    │Plotly│     │Mongo │  │CI/CD │
+  └───┘       └─────┘  └──────┘   └──────┘     └──────┘  └──────┘
+
+  🏆 ACHIEVEMENTS UNLOCKED:
+  [✅] Ship AI to Production     [✅] Build Multi-Agent Systems
+  [✅] +30% RAG Accuracy        [✅] Real-time Voice AI
+  [✅] Live Deployed Product     [✅] End-to-End ML Pipeline
+  [🔓] MLOps & Observability    [🔓] Advanced Multi-Agent Frameworks
+```
+
+---
+
+<!-- ═══════════════════════  TECH STACK ICONS  ═══════════════════════ -->
+
+<div align="center">
+<h2>⚙️ Full Tech Arsenal</h2>
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,docker,aws,postgres,mongodb,redis,react,typescript&perline=10" />
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=github,git,flask,sklearn,linux,vscode,postman,figma,vercel,kubernetes&perline=10" />
+
+<br/>
+
+| 🤖 AI / GenAI | 📊 Data / ML | ⚡ Backend | ☁️ Cloud |
+|---|---|---|---|
+| OpenAI · Claude · Gemini | PyTorch · Scikit-learn | FastAPI · Flask | AWS · Docker |
+| LangChain · LlamaIndex | Pandas · NumPy · FAISS | PostgreSQL · MongoDB | Git · CI/CD |
+| RAG · Agents · Prompts | Streamlit · Plotly | Redis · REST APIs | Kubernetes · Vercel |
+| HuggingFace · Vector DBs | Feature Eng · EDA | Microservices · WS | Linux · DevOps |
 
 </div>
 
@@ -269,64 +417,182 @@ AI-powered personalized design generation · Production-deployed · Real-world u
 <!-- ═══════════════════════  IMPACT METRICS  ═══════════════════════ -->
 
 <div align="center">
-<h2>📈 Measurable Impact</h2>
+<h2>📈 Real-World Impact — The Numbers</h2>
 
-| 🏆 Achievement | 📊 Metric |
-|---|---|
-| RAG Retrieval Accuracy Improvement | **+30%** |
-| AI Systems Built End-to-End | **6+ production projects** |
-| Live Deployed AI Product | **TokiTide → tokitide.xyz** |
-| System Architectures Designed | **Multi-agent · RAG · Fraud · Voice** |
-| Tech Domains Covered | **AI · ML · Data · Backend · Product** |
+```
+┌─────────────────────────────────────────────────────────────────────┐
+│                      IMPACT DASHBOARD v1.0                          │
+├────────────────────┬────────────────────┬───────────────────────────┤
+│  RAG Accuracy      │  AI Systems Built  │  Live Deployed Product    │
+│   +30% ↑           │   6+               │   tokitide.xyz            │
+│  over baseline     │  production-grade  │   Real users. Real value. │
+├────────────────────┼────────────────────┼───────────────────────────┤
+│  Architectures     │  Tech Domains      │  Response Time            │
+│   4+               │   5+               │   < 1s                    │
+│  Multi-agent · RAG │  AI·ML·Data·BE·PM  │   real-time voice AI      │
+│  Fraud · Voice     │  Full stack AI eng │   conversational loop     │
+└────────────────────┴────────────────────┴───────────────────────────┘
+```
 
 </div>
 
 ---
 
-<!-- ═══════════════════════  EXPERIENCE  ═══════════════════════ -->
+<!-- ═══════════════════════  EXPERIENCE TIMELINE  ═══════════════════════ -->
 
-<div align="center"><h2>🏢 Experience</h2></div>
+<div align="center">
+<h2>🏢 Experience Timeline</h2>
+</div>
 
-<table align="center"><tr><td>
+```
+TIMELINE ───────────────────────────────────────────────────────────►
 
-**🚀 AI Platform Engineer Intern — Darwix AI**
+  ◉ 2024─Present
+  │
+  └──► 🚀 AI Platform Engineer Intern @ Darwix AI
+       │
+       ├── 🤖 Designed Agentic AI pipelines with multi-step reasoning
+       │      and dynamic tool orchestration
+       │
+       ├── 🔍 Built production RAG systems with FAISS vector search
+       │      + custom hallucination reduction layers
+       │
+       ├── ⚡ Developed FastAPI microservices for high-performance
+       │      AI API delivery at scale
+       │
+       └── ☁️ Deployed AI workloads on AWS + Docker in prod environments
 
-- 🤖 Designed **Agentic AI pipelines** with multi-step reasoning and tool orchestration
-- 🔍 Developed **RAG systems** with FAISS-based vector search and hallucination reduction
-- ⚡ Built **FastAPI microservices** for high-performance AI API delivery
-- ☁️ Deployed AI workloads using **AWS + Docker** in production environments
 
-</td></tr></table>
+  ◉ Ongoing
+  │
+  └──► 🌐 TokiTide — Founder & AI Engineer
+       │
+       ├── Built full-stack AI personalization platform from scratch
+       └── Live at tokitide.xyz — real users, real feedback, real scale
+```
+
+---
+
+<!-- ═══════════════════════  NEURAL NETWORK EASTER EGG  ═══════════════════════ -->
+
+<details>
+<summary><b>🧬 &nbsp;[ CLASSIFIED: How My Brain Works ] &nbsp;— Click to reveal</b></summary>
+
+<br/>
+
+```
+              THE POORNESH NEURAL ARCHITECTURE
+              ══════════════════════════════════
+
+INPUT LAYER           HIDDEN LAYERS              OUTPUT LAYER
+───────────           ─────────────              ────────────
+
+ [Problem]  ──────►  [Break it down]  ──────►   [System Design]
+     │                     │                          │
+ [Data]     ──────►  [Find patterns]  ──────►   [Working Code]
+     │                     │                          │
+ [Research] ──────►  [Synthesize]     ──────►   [Shipped AI]
+     │                     │                          │
+ [Feedback] ──────►  [Iterate fast]   ──────►   [Real Impact]
+
+Activation function: coffee() + curiosity() + deadline_pressure()
+Loss function: min(hallucinations) + max(accuracy) + ship_speed
+Optimizer: SGD (Stochastic Grind Daily)
+
+WEIGHTS:
+├── Bias toward: shipping > theorizing
+├── Bias toward: systems thinking > isolated solutions
+└── Bias toward: impact > elegance (though I chase both)
+```
+
+</details>
+
+---
+
+<!-- ═══════════════════════  FUN ZONE  ═══════════════════════ -->
+
+<details>
+<summary><b>🎮 &nbsp;[ Boss Fight: What Am I Like To Work With? ] &nbsp;— Click to reveal</b></summary>
+
+<br/>
+
+```
+╔═══════════════════════════════════════════════════════════════════╗
+║              ⚔️  WORK STYLE BOSS FIGHT STATS ⚔️                  ║
+╠═══════════════════════════════════════════════════════════════════╣
+║                                                                   ║
+║  HP   : [████████████████████] Unlimited (I don't quit)          ║
+║  ATK  : [████████████████░░░░] 80% Builds fast, ships faster     ║
+║  DEF  : [█████████████████░░░] 85% Handles ambiguity well        ║
+║  SPD  : [██████████████████░░] 90% Picks up new tech in days     ║
+║  INT  : [████████████████████] 95% Systems thinker               ║
+║  COL  : [████████████████░░░░] 80% Loves pair designing          ║
+║                                                                   ║
+║  SPECIAL MOVES:                                                   ║
+║   🌀 "Architecture Whirlwind" — maps entire system in 10 mins    ║
+║   ⚡ "Prototype Blitz" — MVP from idea in 48 hours               ║
+║   🛡️ "Hallucination Guard" — catches LLM lies before prod        ║
+║   🔥 "Ship or Die" — no tutorial zone, straight to production    ║
+║                                                                   ║
+╚═══════════════════════════════════════════════════════════════════╝
+```
+
+</details>
+
+---
+
+<details>
+<summary><b>🤫 &nbsp;[ Secret: What I'm Actually Obsessed With ] &nbsp;— Click to reveal</b></summary>
+
+<br/>
+
+```python
+obsessions = {
+    "🧠 AI Alignment": "How do we make sure AI systems do what we actually want?",
+    "🔗 Agentic Loops": "Agents that reason, plan, retry, and self-correct are magic.",
+    "📐 System Design": "A good architecture solves 10 future problems you haven't seen yet.",
+    "📊 Eval-driven AI": "If you can't measure it, you can't improve it. Evals first, always.",
+    "🚀 Zero-to-Prod":  "The gap between notebook and production is where most AI dies. I live there.",
+}
+
+late_night_reads = [
+    "LLM evaluation papers",
+    "Multi-agent framework comparisons",
+    "MLOps & model observability talks",
+    "New RAG retrieval techniques",
+]
+
+unpopular_opinion = "RAG without an eval layer is just vibes engineering."
+```
+
+</details>
 
 ---
 
 <!-- ═══════════════════════  GITHUB STATS  ═══════════════════════ -->
 
-<div align="center"><h2>📊 GitHub Activity</h2></div>
-
 <div align="center">
+<h2>📊 GitHub Activity</h2>
 
 <img src="https://github-readme-stats.vercel.app/api?username=ppspoornesh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFB3&icon_color=00FFB3&text_color=ffffff&border_radius=10&count_private=true" height="180"/>
-&nbsp;
+&nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ppspoornesh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFB3&text_color=ffffff&border_radius=10&langs_count=8" height="180"/>
 
-</div>
+<br/><br/>
 
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=ppspoornesh&theme=tokyonight-duo&hide_border=true&background=0d1117&ring=00FFB3&fire=FF6B6B&currStreakLabel=00FFB3&border_radius=10" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=ppspoornesh&theme=tokyonight-duo&hide_border=true&background=0d1117&ring=00FFB3&fire=FF6B6B&currStreakLabel=00FFB3&border_radius=10" height="175"/>
 
 </div>
 
-<div align="center">
+<br/>
 
+<div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ppspoornesh&bg_color=0d1117&color=00FFB3&line=00FFB3&point=ffffff&area=true&hide_border=true&radius=10" width="95%"/>
-
 </div>
 
 ---
 
-<!-- ═══════════════════════  SNAKE ANIMATION  ═══════════════════════ -->
+<!-- ═══════════════════════  SNAKE  ═══════════════════════ -->
 
 <div align="center">
 <h2>🐍 Contribution Snake</h2>
@@ -336,61 +602,78 @@ AI-powered personalized design generation · Production-deployed · Real-world u
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ppspoornesh/ppspoornesh/output/github-snake.svg"/>
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ppspoornesh/ppspoornesh/output/github-snake-dark.svg"/>
 </picture>
-
-
 </div>
 
----
-
-<!-- ═══════════════════════  GITHUB TROPHIES  ═══════════════════════ -->
-<div align="center">
-<h2>🛠️ Tech I Work With Daily</h2>
-
-<img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,docker,aws,postgres,mongodb,redis,react,typescript&perline=10" />
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=github,git,flask,sklearn,linux,vscode,postman,figma,vercel,kubernetes&perline=10" />
-
-</div>
 ---
 
 <!-- ═══════════════════════  CURRENTLY  ═══════════════════════ -->
 
 <div align="center">
-<h2>🔭 Currently</h2>
+<h2>🔭 Currently Operating On</h2>
 
-| 🔭 Building | 🌱 Learning | 👯 Looking For |
-|-------------|-------------|----------------|
-| Next-gen Agentic AI systems | Advanced multi-agent frameworks | Full-time AI/ML/Data/SDE roles |
-| AI-powered product platforms | MLOps & model observability | Collaborative AI product teams |
-| Real-time LLM orchestration | LLM evaluation techniques | Impactful, fast-moving orgs |
+```
+┌──────────────────────┬─────────────────────────┬───────────────────────────┐
+│   🔭 BUILDING        │   🌱 LEVELING UP         │   👯 SEEKING              │
+├──────────────────────┼─────────────────────────┼───────────────────────────┤
+│ Next-gen Agentic AI  │ Advanced multi-agent     │ Full-time AI/ML/Data/SDE  │
+│ systems              │ frameworks               │ roles (remote / India)    │
+│                      │                         │                           │
+│ AI-powered product   │ MLOps & model            │ Collaborative AI product  │
+│ platforms            │ observability            │ teams                     │
+│                      │                         │                           │
+│ Real-time LLM        │ LLM evaluation &         │ Impactful, fast-moving,   │
+│ orchestration        │ red-teaming techniques   │ product-driven orgs       │
+└──────────────────────┴─────────────────────────┴───────────────────────────┘
+```
 
 </div>
 
 ---
 
-<!-- ═══════════════════════  CONNECT  ═══════════════════════ -->
+<!-- ═══════════════════════  CTA / CONNECT  ═══════════════════════ -->
 
 <div align="center">
-<h2>🌍 Let's Connect</h2>
+<h2>🌍 Let's Build Something Real</h2>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Poornesh%20Gorrela-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/poornesh-pavan-sai-gorrela-8156a2252)
 [![GitHub](https://img.shields.io/badge/GitHub-ppspoornesh-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ppspoornesh)
 [![Email](https://img.shields.io/badge/Email-pavansaipoornesh99%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pavansaipoornesh99@gmail.com)
-[![TokiTide](https://img.shields.io/badge/Live%20Product-TokiTide.xyz-22C55E?style=for-the-badge&logo=vercel&logoColor=white)](https://tokitide.xyz)
+[![TokiTide](https://img.shields.io/badge/Live%20Product-TokiTide.xyz-22C55E?style=for-the-badge)](https://tokitide.xyz)
 
 <br/>
 
-**💬 Always open to discussing AI architecture, system design, or new opportunities.**<br/>
-**📩 Drop me a message — I respond fast.**
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                                                                  │
+│   IF YOU'VE READ THIS FAR — you're clearly thorough.           │
+│   That's exactly the kind of team I want to be on.             │
+│                                                                  │
+│   📩  Drop me a message. I respond fast. Always.               │
+│   💬  Open to discussing AI architecture, system design,       │
+│       new opportunities, or just a good AI debate.             │
+│                                                                  │
+│   📍  pavansaipoornesh99@gmail.com                             │
+│   🔗  linkedin.com/in/poornesh-pavan-sai-gorrela-8156a2252     │
+│   🌐  tokitide.xyz                                             │
+│                                                                  │
+└─────────────────────────────────────────────────────────────────┘
+```
 
 </div>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=%E2%9A%A1%20Building%20AI%20for%20Real-World%20Impact&fontSize=22&fontColor=fff&animation=twinkling&fontAlignY=65" width="100%"/>
+<!-- ═══════════════════════  FOOTER  ═══════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=130&section=footer&text=⚡%20Building%20AI%20for%20Real-World%20Impact&fontSize=22&fontColor=fff&animation=twinkling&fontAlignY=65&stroke=00FFB3" width="100%"/>
 
 <div align="center">
 
-*"I don't just build models. I build systems that think, act, and scale."*
+<sub>
+⚡ Built with obsession, shipped with intention &nbsp;·&nbsp; Last updated: 2025 &nbsp;·&nbsp; Always building<br/>
+<i>"I don't just build models. I build systems that think, act, and scale."</i>
+</sub>
 
 </div>
+
+<!-- ████████████████████  END OF README  ████████████████████ -->
