@@ -6,7 +6,7 @@
 
 <!-- ═══════════════════════  TYPING ANIMATION (Fixed)  ═══════════════════════ -->
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=1000&color=00FFB3&background=00000000&center=true&vCenter=true&width=900&height=50&lines=Agentic+AI+%7C+LLMs+%7C+RAG+%7C+GenAI+%F0%9F%A4%96;ML+Engineer+%7C+Data+Scientist+%7C+Data+Analyst+%F0%9F%93%8A;Backend+SDE+%7C+FastAPI+%7C+System+Design+%F0%9F%9B%A0%EF%B8%8F;Building+Production-Grade+AI+Systems+%F0%9F%9A%80;From+Architecture+to+Deployment+to+Scale+%E2%9A%A1" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=1000&color=00FFB3&background=00000000&center=true&vCenter=true&width=900&height=50&lines=Agentic+AI+%7C+LLMs+%7C+RAG+%7C+GenAI;ML+Engineer+%7C+Data+Scientist+%7C+Data+Analyst;Backend+SDE+%7C+FastAPI+%7C+System+Design;Building+Production-Grade+AI+Systems;From+Architecture+to+Deployment+to+Scale" alt="Typing SVG" />
 
 <br/>
 
@@ -23,7 +23,7 @@
 
 <!-- ═══════════════════════  WHO AM I  ═══════════════════════ -->
 
-<div align="center"><h2>⚡ Who Am I?</h2></div>
+<div align="center"><h2>Who Am I?</h2></div>
 
 ```python
 class PoorneshGorrela:
@@ -53,7 +53,7 @@ class PoorneshGorrela:
     ]
 
     def mission(self):
-        return "Build AI systems that create measurable real-world impact 🚀"
+        return "Build AI systems that create measurable real-world impact"
 ```
 
 ---
@@ -61,7 +61,7 @@ class PoorneshGorrela:
 <!-- ═══════════════════════  ROLE BADGES  ═══════════════════════ -->
 
 <div align="center">
-<h2>🎯 Open To Roles In</h2>
+<h2>Open To Roles In</h2>
 
 ![AI Engineer](https://img.shields.io/badge/AI%20Engineer-%2300FFB3?style=for-the-badge&logo=openai&logoColor=black)
 ![GenAI Developer](https://img.shields.io/badge/GenAI%20Developer-%2300C9FF?style=for-the-badge&logo=anthropic&logoColor=black)
@@ -78,13 +78,13 @@ class PoorneshGorrela:
 
 <!-- ═══════════════════════  FEATURED SYSTEMS  ═══════════════════════ -->
 
-<div align="center"><h2>🚀 Featured Systems — Built. Shipped. Measured.</h2></div>
+<div align="center"><h2>Featured Systems — Built. Shipped. Measured.</h2></div>
 
 <table align="center" width="100%">
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 Agentic AI Voice Assistant
+### Agentic AI Voice Assistant
 > **Multi-Agent System with Real-Time Orchestration**
 
 ```
@@ -96,19 +96,19 @@ External APIs / Memory
     ↓  [Context Injection]
 Response Synthesis
     ↓  [Text-to-Speech]
- User ← Real-Time Output
+User ← Real-Time Output
 ```
 
-- 🧠 Multi-agent architecture with dynamic tool routing
-- 💾 Persistent contextual memory layer
-- ⚡ Sub-second real-time conversational loop
+- Multi-agent architecture with dynamic tool routing
+- Persistent contextual memory layer
+- Sub-second real-time conversational loop
 
-[![Watch Demo](https://img.shields.io/badge/%E2%96%B6%20Watch%20Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=pbH4afMm47g)
+[![Watch Demo](https://img.shields.io/badge/Watch%20Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=pbH4afMm47g)
 
 </td>
 <td width="50%" valign="top">
 
-### 🧠 Medical RAG Assistant
+### Medical RAG Assistant
 > **Production-Grade Retrieval-Augmented Generation**
 
 ```
@@ -120,14 +120,14 @@ Context Retrieval
     ↓  [Prompt Assembly]
 LLM Generation
     ↓  [Hallucination Filter]
- Accurate Answer ✅
+Accurate Answer
 ```
 
-- 📈 **30% improvement** in retrieval accuracy
-- 🛡️ Evaluation layer to detect & reduce hallucinations
-- ⚙️ Full pipeline: ingestion → retrieval → generation
+- **30% improvement** in retrieval accuracy
+- Evaluation layer to detect & reduce hallucinations
+- Full pipeline: ingestion → retrieval → generation
 
-[![Watch Demo](https://img.shields.io/badge/%E2%96%B6%20Watch%20Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=qmS9I-KiB28)
+[![Watch Demo](https://img.shields.io/badge/Watch%20Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=qmS9I-KiB28)
 
 </td>
 </tr>
@@ -135,7 +135,7 @@ LLM Generation
 <tr>
 <td width="50%" valign="top">
 
-### 💰 Fraud Detection Analytics Platform
+### Fraud Detection Analytics Platform
 > **End-to-End Financial Risk Intelligence**
 
 ```
@@ -145,19 +145,19 @@ Feature Engineering
     ↓  [Anomaly Detection]
 Risk Scoring Model
     ↓  [Fraud Classification]
-Interactive Dashboard 📊
+Interactive Dashboard
 ```
 
-- 🏦 Data Engineering + ML + Analytics combined
-- 📊 Real-time Streamlit risk monitoring dashboard
-- 🔍 Pattern-based anomaly detection with ML scoring
+- Data Engineering + ML + Analytics combined
+- Real-time Streamlit risk monitoring dashboard
+- Pattern-based anomaly detection with ML scoring
 
 [![View Repo](https://img.shields.io/badge/View%20Repository-00FFB3?style=for-the-badge&logo=github&logoColor=black)](https://github.com/ppspoornesh/fraud-detection-analytics-system)
 
 </td>
 <td width="50%" valign="top">
 
-### 🎬 Pitch Visualizer + 💬 Empathy Engine
+### Pitch Visualizer + Empathy Engine
 > **LLM Orchestration · NLP · Speech AI**
 
 **Pitch Visualizer:**
@@ -172,8 +172,8 @@ Text → VADER Sentiment → Adaptive Speech
 (tone, pitch, intensity dynamically tuned)
 ```
 
-- 🧠 LLM orchestration + fallback engineering
-- 🎭 Emotion-aware adaptive speech generation
+- LLM orchestration + fallback engineering
+- Emotion-aware adaptive speech generation
 
 [![Pitch Visualizer](https://img.shields.io/badge/Pitch%20Visualizer-4F46E5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ppspoornesh/pitch-visualizer)
 [![Empathy Engine](https://img.shields.io/badge/Empathy%20Engine-EC4899?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ppspoornesh/empathy-engine)
@@ -184,7 +184,7 @@ Text → VADER Sentiment → Adaptive Speech
 <tr>
 <td colspan="2" align="center">
 
-### 👕 TokiTide — AI Personalization Platform
+### TokiTide — AI Personalization Platform
 > **Full-Stack AI Product · Deployed & Live**
 
 ```
@@ -195,7 +195,7 @@ User Preferences  →  AI Design Engine  →  Personalized Output  →  End-to-E
 
 AI-powered personalized design generation · Production-deployed · Real-world user flow
 
-[![Visit Live](https://img.shields.io/badge/%F0%9F%8C%90%20Visit%20Live%20Product-22C55E?style=for-the-badge)](https://tokitide.xyz)
+[![Visit Live](https://img.shields.io/badge/Visit%20Live%20Product-22C55E?style=for-the-badge)](https://tokitide.xyz)
 
 </td>
 </tr>
@@ -205,10 +205,10 @@ AI-powered personalized design generation · Production-deployed · Real-world u
 
 <!-- ═══════════════════════  TECH STACK  ═══════════════════════ -->
 
-<div align="center"><h2>⚙️ Full Tech Arsenal</h2></div>
+<div align="center"><h2>Full Tech Arsenal</h2></div>
 
 <details open>
-<summary><b>🤖 AI / GenAI / LLMs</b></summary><br>
+<summary><b>AI / GenAI / LLMs</b></summary><br>
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
@@ -221,7 +221,7 @@ AI-powered personalized design generation · Production-deployed · Real-world u
 </details>
 
 <details open>
-<summary><b>📊 Data Science / ML / Analytics</b></summary><br>
+<summary><b>Data Science / ML / Analytics</b></summary><br>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
@@ -234,7 +234,7 @@ AI-powered personalized design generation · Production-deployed · Real-world u
 </details>
 
 <details>
-<summary><b>🛠️ Backend / Cloud / DevOps</b></summary><br>
+<summary><b>Backend / Cloud / DevOps</b></summary><br>
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
@@ -251,16 +251,16 @@ AI-powered personalized design generation · Production-deployed · Real-world u
 <!-- ═══════════════════════  SKILL DEPTH TABLE  ═══════════════════════ -->
 
 <div align="center">
-<h2>🎯 Skill Depth by Role</h2>
+<h2>Skill Depth by Role</h2>
 
 | Role | Core Skills | Level |
 |------|------------|-------|
-| 🤖 **AI / GenAI Engineer** | Agentic AI, RAG, LLMs, Prompt Eng, Vector DBs | `████████████ 95%` |
-| 🧠 **ML Engineer** | PyTorch, Scikit-learn, Feature Eng, Model Eval | `██████████░░ 85%` |
-| 📊 **Data Scientist** | EDA, Statistics, Modeling, Experimentation | `██████████░░ 85%` |
-| 📈 **Data Analyst** | SQL, Pandas, Dashboards, Risk Analytics | `███████████░ 90%` |
-| 🛠️ **Backend SDE** | FastAPI, Microservices, REST, System Design | `██████████░░ 85%` |
-| 💡 **AI Product** | AI Product Strategy, User Flow, Deployment | `█████████░░░ 80%` |
+| **AI / GenAI Engineer** | Agentic AI, RAG, LLMs, Prompt Eng, Vector DBs | `████████████ 95%` |
+| **ML Engineer** | PyTorch, Scikit-learn, Feature Eng, Model Eval | `██████████░░ 85%` |
+| **Data Scientist** | EDA, Statistics, Modeling, Experimentation | `██████████░░ 85%` |
+| **Data Analyst** | SQL, Pandas, Dashboards, Risk Analytics | `███████████░ 90%` |
+| **Backend SDE** | FastAPI, Microservices, REST, System Design | `██████████░░ 85%` |
+| **AI Product** | AI Product Strategy, User Flow, Deployment | `█████████░░░ 80%` |
 
 </div>
 
@@ -269,9 +269,9 @@ AI-powered personalized design generation · Production-deployed · Real-world u
 <!-- ═══════════════════════  IMPACT METRICS  ═══════════════════════ -->
 
 <div align="center">
-<h2>📈 Measurable Impact</h2>
+<h2>Measurable Impact</h2>
 
-| 🏆 Achievement | 📊 Metric |
+| Achievement | Metric |
 |---|---|
 | RAG Retrieval Accuracy Improvement | **+30%** |
 | AI Systems Built End-to-End | **6+ production projects** |
@@ -285,16 +285,16 @@ AI-powered personalized design generation · Production-deployed · Real-world u
 
 <!-- ═══════════════════════  EXPERIENCE  ═══════════════════════ -->
 
-<div align="center"><h2>🏢 Experience</h2></div>
+<div align="center"><h2>Experience</h2></div>
 
 <table align="center"><tr><td>
 
-**🚀 AI Platform Engineer Intern — Darwix AI**
+**AI Platform Engineer Intern — Darwix AI**
 
-- 🤖 Designed **Agentic AI pipelines** with multi-step reasoning and tool orchestration
-- 🔍 Developed **RAG systems** with FAISS-based vector search and hallucination reduction
-- ⚡ Built **FastAPI microservices** for high-performance AI API delivery
-- ☁️ Deployed AI workloads using **AWS + Docker** in production environments
+- Designed **Agentic AI pipelines** with multi-step reasoning and tool orchestration
+- Developed **RAG systems** with FAISS-based vector search and hallucination reduction
+- Built **FastAPI microservices** for high-performance AI API delivery
+- Deployed AI workloads using **AWS + Docker** in production environments
 
 </td></tr></table>
 
@@ -302,7 +302,7 @@ AI-powered personalized design generation · Production-deployed · Real-world u
 
 <!-- ═══════════════════════  GITHUB STATS  ═══════════════════════ -->
 
-<div align="center"><h2>📊 GitHub Activity</h2></div>
+<div align="center"><h2>GitHub Activity</h2></div>
 
 <div align="center">
 
@@ -329,7 +329,7 @@ AI-powered personalized design generation · Production-deployed · Real-world u
 <!-- ═══════════════════════  SNAKE ANIMATION  ═══════════════════════ -->
 
 <div align="center">
-<h2>🐍 Contribution Snake</h2>
+<h2>Contribution Snake</h2>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ppspoornesh/ppspoornesh/output/github-snake-dark.svg"/>
@@ -344,7 +344,7 @@ AI-powered personalized design generation · Production-deployed · Real-world u
 
 <!-- ═══════════════════════  GITHUB TROPHIES  ═══════════════════════ -->
 <div align="center">
-<h2>🛠️ Tech I Work With Daily</h2>
+<h2>Tech I Work With Daily</h2>
 
 <img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,docker,aws,postgres,mongodb,redis,react,typescript&perline=10" />
 <br/><br/>
@@ -356,9 +356,9 @@ AI-powered personalized design generation · Production-deployed · Real-world u
 <!-- ═══════════════════════  CURRENTLY  ═══════════════════════ -->
 
 <div align="center">
-<h2>🔭 Currently</h2>
+<h2>Currently</h2>
 
-| 🔭 Building | 🌱 Learning | 👯 Looking For |
+| Building | Learning | Looking For |
 |-------------|-------------|----------------|
 | Next-gen Agentic AI systems | Advanced multi-agent frameworks | Full-time AI/ML/Data/SDE roles |
 | AI-powered product platforms | MLOps & model observability | Collaborative AI product teams |
@@ -371,7 +371,7 @@ AI-powered personalized design generation · Production-deployed · Real-world u
 <!-- ═══════════════════════  CONNECT  ═══════════════════════ -->
 
 <div align="center">
-<h2>🌍 Let's Connect</h2>
+<h2>Let's Connect</h2>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Poornesh%20Gorrela-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/poornesh-pavan-sai-gorrela-8156a2252)
 [![GitHub](https://img.shields.io/badge/GitHub-ppspoornesh-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ppspoornesh)
@@ -380,14 +380,14 @@ AI-powered personalized design generation · Production-deployed · Real-world u
 
 <br/>
 
-**💬 Always open to discussing AI architecture, system design, or new opportunities.**<br/>
-**📩 Drop me a message — I respond fast.**
+**Always open to discussing AI architecture, system design, or new opportunities.**<br/>
+**Drop me a message — I respond fast.**
 
 </div>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=%E2%9A%A1%20Building%20AI%20for%20Real-World%20Impact&fontSize=22&fontColor=fff&animation=twinkling&fontAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Building%20AI%20for%20Real-World%20Impact&fontSize=22&fontColor=fff&animation=twinkling&fontAlignY=65" width="100%"/>
 
 <div align="center">
 
